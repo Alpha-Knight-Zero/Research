@@ -1,271 +1,269 @@
-,Choose your course type.,Which year BTech student are you ?,Which year MTech student are you?,Which branch are you enrolled in ?,What is your gender ?,What is your age ? ( in years),Did you have to frequently change school in your schooldays ?,Do you live in a rented accommodation ?,Provide your height in cms . (only number),Provide your weight in Kgs .(only number),How many siblings are you in total ? (including you),Do you live with a single parent/guardian ?,Do both of your parents work ?,Do you smoke ?,Are you specially abled ?,Have you ever been constantly bullied by someone ?,"1. Feeling nervous, anxious or on edge .",2. Not being able to stop or control worrying .,3.Worrying too much about different things .,4. Having trouble in relaxing .,5. Being so restless that it is hard to sit still .,6. Becoming easily annoyed or irritable .,7. Feeling afraid as if something awful might happen .,1. Little interest or pleasure in doing things .,"2. Feeling down, depressed or hopeless .","3. Trouble falling asleep, staying asleep, or sleeping too much .",4.Feeling tired or having little energy .,5.Poor appetite or overeating .,6.Feeling bad about yourself - or that you’re a failure or have let yourself or your family down .,"7. Trouble concentrating on things, such as reading the newspaper or watching television .","8. Moving or speaking so slowly that other people could have noticed. Or, the opposite - being so fidgety or restless that you have been moving around a lot more than usual .",9. Thoughts that you would be better off dead or of hurting yourself in some way .,PHQ-9 Score,GAD-7 Score,Depression Severity,Anxiety Severity,BMI,BMI Category
-121,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,170,85,2,Yes,Yes,No,No,No,3,3,4,4,2,3,4,2,1,4,3,1,3,2,2,1,10,16,Moderate,Severe,29.41176471,Overweight
-131,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,167,61,2,Yes,Yes,No,No,No,3,2,2,3,4,3,2,4,2,4,4,4,1,1,1,1,13,12,Moderate,Moderate,21.87242282,Normal
-163,BTech,First Year,,Computer Science and Engineering,Female,18,No,No,148,60,2,Yes,Yes,No,No,No,4,4,4,4,4,4,4,2,4,4,4,4,4,4,4,1,22,21,Severe,Severe,27.39225712,Overweight
-168,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,181,73,1,Yes,Yes,No,No,No,1,2,2,2,1,2,1,2,1,3,2,1,1,1,1,1,4,4,None-minimal,Minimal,22.28259211,Normal
-188,BTech,First Year,,Computer Science and Engineering,Male,19,No,No,182,84,1,Yes,Yes,No,No,No,1,1,2,1,1,2,2,3,1,3,1,2,1,2,1,1,6,3,Mild,Minimal,25.35925613,Overweight
-223,BTech,First Year,,Computer Science and Engineering,Male,19,No,No,179,59,4,Yes,Yes,No,No,No,2,1,4,4,4,4,4,1,4,4,4,4,4,4,4,4,24,16,Severe,Severe,18.41390718,Underweight
-229,BTech,First Year,,Computer Science and Engineering,Male,19,No,No,169.4,76,1,Yes,Yes,No,No,No,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,9,7,Mild,Mild,26.48419521,Overweight
-245,BTech,First Year,,Electronics Communication and Engineering,Male,18,Yes,No,176,73,2,Yes,Yes,Yes,No,No,4,4,4,4,1,2,4,4,2,1,4,4,1,1,1,1,10,16,Moderate,Severe,23.56663223,Normal
-248,BTech,First Year,,Computer Science and Engineering,Female,18,No,No,160,39,1,Yes,Yes,No,No,No,2,2,3,2,3,4,3,3,2,1,4,3,4,3,4,3,18,12,Moderately Severe,Moderate,15.234375,Underweight
-14,BTech,First Year,,Computer Science and Engineering,Male,18,Yes,Yes,166,80,2,No,Yes,No,No,Yes,2,2,4,4,1,2,4,3,4,4,4,4,4,1,4,4,23,12,Severe,Moderate,29.03178981,Overweight
-69,BTech,Fourth Year,,Computer Science and Engineering,Male,21,No,No,181,75,1,No,Yes,No,No,Yes,2,1,1,1,1,1,1,1,1,2,1,2,1,1,2,1,3,1,None-minimal,Minimal,22.89307408,Normal
-83,BTech,First Year,,Electronics Communication and Engineering,Male,20,No,No,149.8,57.2,4,No,Yes,No,Yes,Yes,2,2,2,2,2,2,1,4,4,1,1,1,2,1,1,1,7,6,Mild,Mild,2549.015064,Obese
-130,BTech,First Year,,Computer Science and Engineering,Female,18,No,Yes,160,45,2,No,Yes,No,No,Yes,4,3,2,3,3,4,4,3,3,1,2,3,2,3,2,1,11,16,Moderate,Severe,17.578125,Underweight
-156,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,178,78,2,No,Yes,No,No,Yes,2,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,27,19,Severe,Severe,24.61810377,Normal
-202,BTech,First Year,,Computer Science and Engineering,Male,18,No,Yes,170,52,2,No,Yes,No,No,Yes,2,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,0,2,None-minimal,Minimal,17.99307958,Underweight
-204,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,179,95,2,No,Yes,No,No,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,27,21,Severe,Severe,29.64951156,Overweight
-214,BTech,First Year,,Electronics Communication and Engineering,Male,18,No,No,169,53,2,No,Yes,No,Yes,Yes,1,2,3,1,2,2,1,4,2,1,2,1,1,2,1,1,6,5,Mild,Mild,18.55677322,Normal
-234,BTech,Second Year,,Others,Female,20,Yes,No,155,50,3,No,Yes,No,No,Yes,3,3,3,4,2,1,1,3,4,4,4,2,3,4,2,1,18,10,Moderately Severe,Moderate,20.81165453,Normal
-247,BTech,First Year,,Others,Female,18,No,No,173,66,2,No,Yes,Yes,No,Yes,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,26,21,Severe,Severe,22.05219018,Normal
-259,BTech,First Year,,Others,Male,19,No,No,175,80,1,No,Yes,No,No,Yes,3,3,4,4,2,4,4,2,3,3,3,4,3,3,4,4,20,17,Severe,Severe,26.12244898,Overweight
-3,BTech,First Year,,Computer Science and Engineering,Male,18,Yes,No,181,88,1,No,Yes,No,No,No,2,2,2,2,2,3,2,2,2,3,2,3,2,3,2,3,13,8,Moderate,Mild,26.86120692,Overweight
-4,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,165,61,4,No,Yes,No,No,No,1,2,2,3,2,2,1,2,1,4,3,1,3,1,1,1,8,6,Mild,Mild,22.40587695,Normal
-6,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,165,60,2,No,Yes,No,No,No,2,1,1,1,2,3,2,4,1,2,2,2,1,1,3,1,8,5,Mild,Mild,22.03856749,Normal
-9,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,176,48,1,No,Yes,No,No,No,1,1,2,1,1,2,1,4,1,1,2,1,1,2,1,1,5,2,Mild,Minimal,15.49586777,Underweight
-20,BTech,First Year,,Computer Science and Engineering,Male,17,No,Yes,169,64,2,No,Yes,No,No,No,1,2,2,1,2,1,2,2,1,2,2,1,1,2,1,2,5,4,Mild,Minimal,22.40817899,Normal
-21,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,170,67,2,No,Yes,No,No,No,1,2,2,1,2,2,2,2,2,2,2,2,2,3,3,2,11,5,Moderate,Mild,23.183391,Normal
-32,BTech,First Year,,Computer Science and Engineering,Male,19,No,No,173,60,2,No,Yes,No,No,No,1,1,2,1,1,1,1,3,1,1,1,1,1,2,1,1,3,1,None-minimal,Minimal,20.04744562,Normal
-33,BTech,First Year,,Computer Science and Engineering,Male,19,No,No,173,70,2,No,Yes,No,No,No,2,1,1,2,1,2,1,1,1,2,1,1,1,2,2,1,3,3,None-minimal,Minimal,23.38868656,Normal
-35,BTech,First Year,,Electronics Communication and Engineering,Male,18,No,No,178,66,2,No,Yes,No,No,No,3,2,3,4,1,3,3,2,2,3,1,2,2,3,2,3,11,12,Moderate,Moderate,20.83070319,Normal
-41,BTech,First Year,,Electronics Communication and Engineering,Male,18,No,No,175,84,2,No,Yes,No,No,No,2,3,3,2,4,3,2,3,2,3,2,2,3,1,3,2,12,12,Moderate,Moderate,27.42857143,Overweight
-55,BTech,First Year,,Computer Science and Engineering,Male,19,No,No,180,75,2,No,Yes,No,No,No,4,3,4,4,4,3,4,1,3,3,3,2,1,1,2,3,10,19,Moderate,Severe,23.14814815,Normal
-59,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,165,52,1,No,Yes,No,No,No,2,2,2,2,3,3,3,3,3,2,3,2,3,2,1,1,11,10,Moderate,Moderate,19.10009183,Normal
-63,BTech,Second Year,,Electronics Communication and Engineering,Female,20,No,No,157,80,1,No,Yes,No,No,No,4,3,2,3,2,2,2,3,3,3,3,3,2,2,2,2,14,11,Moderate,Moderate,32.45567772,Obese
-66,BTech,First Year,,Computer Science and Engineering,Male,20,No,No,160,60,2,No,Yes,No,No,No,3,2,3,3,2,3,3,1,2,4,2,3,3,2,1,1,10,12,Moderate,Moderate,23.4375,Normal
-67,BTech,First Year,,Computer Science and Engineering,Male,19,No,No,172,60,2,No,Yes,No,No,No,2,2,3,1,1,2,3,3,1,1,2,2,1,2,1,1,5,7,Mild,Mild,20.2812331,Normal
-75,BTech,First Year,,Computer Science and Engineering,Male,20,No,No,172.7,65,1,No,Yes,No,No,No,2,3,3,3,3,2,2,1,1,3,2,1,2,1,1,1,4,11,None-minimal,Moderate,21.79358524,Normal
-77,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,176,50,1,No,Yes,No,No,No,2,1,3,2,3,3,1,3,1,3,3,2,1,1,1,1,7,8,Mild,Mild,16.14152893,Underweight
-81,BTech,Fourth Year,,Electronics Communication and Engineering,Male,23,No,No,178,55,1,No,Yes,No,No,No,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,0,1,None-minimal,Minimal,17.35891933,Underweight
-89,BTech,Third Year,,Computer Science and Engineering,Male,20,No,No,173,60,1,No,Yes,No,No,No,4,2,3,1,1,1,3,1,4,1,1,1,4,1,1,1,6,8,Mild,Mild,20.04744562,Normal
-93,BTech,First Year,,Computer Science and Engineering,Male,19,No,No,160,65,2,No,Yes,No,No,No,3,2,2,2,2,2,3,2,2,2,2,1,2,1,2,1,6,9,Mild,Mild,25.390625,Overweight
-95,BTech,First Year,,Electronics Communication and Engineering,Male,18,No,No,178,68,1,No,Yes,No,No,No,2,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,None-minimal,Minimal,21.46193662,Normal
-99,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,171,72,2,No,Yes,No,No,No,1,4,4,4,4,1,1,3,1,4,1,3,1,2,1,1,8,12,Mild,Moderate,24.62296091,Normal
-104,BTech,First Year,,Computer Science and Engineering,Male,19,No,Yes,179,64,2,No,Yes,No,No,No,3,3,2,3,3,2,2,1,2,2,2,1,2,1,3,1,6,11,Mild,Moderate,19.97440779,Normal
-107,BTech,First Year,,Computer Science and Engineering,Male,20,No,No,180,80,2,No,Yes,No,No,No,2,1,1,1,2,1,1,3,2,2,1,2,1,2,4,1,9,2,Mild,Minimal,24.69135802,Normal
-109,BTech,First Year,,Electronics Communication and Engineering,Male,18,No,No,173,55,2,No,Yes,No,No,No,1,1,1,1,3,1,1,3,1,1,1,1,1,1,1,1,2,2,None-minimal,Minimal,18.37682515,Underweight
-110,BTech,First Year,,Electronics Communication and Engineering,Male,18,No,No,168,52,2,No,Yes,No,No,No,1,1,1,1,1,2,2,4,1,1,1,1,1,1,1,1,3,2,None-minimal,Minimal,18.42403628,Underweight
-113,BTech,Third Year,,Electronics Communication and Engineering,Male,19,No,No,177.8,74.6,2,No,Yes,No,No,No,1,1,1,1,3,2,3,3,2,1,1,1,3,3,2,1,8,5,Mild,Mild,23.59800638,Normal
-115,BTech,First Year,,Computer Science and Engineering,Male,19,No,No,168,65,2,No,Yes,No,No,No,2,2,1,1,1,1,1,3,1,1,1,1,1,1,2,1,3,2,None-minimal,Minimal,23.03004535,Normal
-128,BTech,First Year,,Computer Science and Engineering,Female,19,No,No,154,58,2,No,Yes,No,No,No,3,2,2,2,1,3,3,3,3,1,3,1,2,1,2,3,10,9,Moderate,Mild,24.45606342,Normal
-129,BTech,First Year,,Electronics Communication and Engineering,Male,18,Yes,No,170,77,2,No,Yes,No,No,No,1,1,2,4,4,4,2,2,2,4,4,4,4,4,2,1,18,11,Moderately Severe,Moderate,26.64359862,Overweight
-133,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,160,60,3,No,Yes,No,No,No,4,4,4,4,3,4,4,1,4,4,1,4,4,1,1,4,15,20,Moderately Severe,Severe,23.4375,Normal
-139,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,179,90,2,No,Yes,No,No,No,3,3,3,3,2,3,3,3,3,4,3,3,2,3,2,1,15,13,Moderately Severe,Moderate,28.08901095,Overweight
-145,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,178,52,2,No,Yes,No,No,No,3,3,1,4,4,4,2,1,3,4,2,2,4,1,4,1,13,14,Moderate,Moderate,16.41206918,Underweight
-148,BTech,First Year,,Computer Science and Engineering,Male,18,No,Yes,180,90,1,No,Yes,No,No,No,3,3,3,4,4,2,4,4,3,1,4,1,4,1,1,1,11,16,Moderate,Severe,27.77777778,Overweight
-149,BTech,First Year,,Computer Science and Engineering,Male,17,No,No,167,58,3,No,Yes,No,No,No,3,2,2,2,1,1,1,4,2,3,2,3,2,1,2,1,11,5,Moderate,Mild,20.79672989,Normal
-151,BTech,First Year,,Computer Science and Engineering,Male,19,No,Yes,168,52,3,No,Yes,No,No,No,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4,26,21,Severe,Severe,18.42403628,Underweight
-152,BTech,First Year,,Computer Science and Engineering,Male,18,Yes,Yes,162.5,60,2,No,Yes,No,No,No,1,1,1,1,1,1,1,1,1,4,1,1,1,1,1,1,3,0,None-minimal,Minimal,22.72189349,Normal
-155,BTech,First Year,,Computer Science and Engineering,Male,18,Yes,No,174,67,4,No,Yes,No,No,No,1,1,1,1,1,1,1,4,1,2,2,2,1,1,1,1,6,0,Mild,Minimal,22.12973973,Normal
-161,BTech,First Year,,Computer Science and Engineering,Female,18,No,No,180,90,1,No,Yes,No,No,No,3,4,3,3,1,2,2,2,2,3,2,2,2,2,1,1,8,11,Mild,Moderate,27.77777778,Overweight
-173,BTech,First Year,,Others,Male,18,No,Yes,170,55,1,No,Yes,No,No,No,1,1,2,2,3,2,1,3,1,3,3,2,1,1,2,2,9,5,Mild,Mild,19.03114187,Normal
-178,BTech,First Year,,Computer Science and Engineering,Male,18,Yes,No,175,55,2,No,Yes,No,No,No,4,4,4,3,4,3,3,2,4,4,2,1,4,3,1,1,13,18,Moderate,Severe,17.95918367,Underweight
-179,BTech,First Year,,Computer Science and Engineering,Male,20,No,Yes,177,70,3,No,Yes,No,No,No,3,4,4,3,2,3,3,3,3,3,3,1,4,3,3,3,17,15,Moderately Severe,Severe,22.34351559,Normal
-187,BTech,First Year,,Electronics Communication and Engineering,Male,18,No,No,171,75,2,No,Yes,No,No,No,2,4,4,4,2,2,2,3,2,4,3,4,4,4,2,1,18,13,Moderately Severe,Moderate,25.64891762,Overweight
-190,BTech,First Year,,Others,Male,18,No,No,175,60,2,No,Yes,No,No,No,3,2,3,2,2,2,2,3,1,2,3,2,1,3,2,1,9,9,Mild,Mild,19.59183673,Normal
-192,BTech,First Year,,Electronics Communication and Engineering,Female,18,No,No,170,43,2,No,Yes,No,No,No,3,3,3,2,1,4,2,3,4,2,2,3,3,2,1,2,13,11,Moderate,Moderate,14.87889273,Underweight
-194,BTech,Second Year,,Computer Science and Engineering,Female,21,Yes,No,157,48,2,No,Yes,No,No,No,3,2,3,3,3,3,3,3,2,2,2,2,3,2,2,2,11,13,Moderate,Moderate,19.47340663,Normal
-195,BTech,First Year,,Electronics Communication and Engineering,Male,18,No,No,168,70,2,No,Yes,No,No,No,2,2,2,1,1,2,1,2,2,1,2,2,1,1,1,1,4,4,None-minimal,Minimal,24.8015873,Normal
-198,BTech,Second Year,,Computer Science and Engineering,Female,18,No,Yes,165,65,2,No,Yes,No,No,No,2,2,2,1,1,3,2,3,3,3,2,1,3,3,1,3,13,6,Moderate,Mild,23.87511478,Normal
-212,BTech,First Year,,Computer Science and Engineering,Male,19,No,No,170,59,2,No,Yes,No,No,No,2,2,2,2,3,1,3,3,2,3,3,2,2,3,1,1,11,8,Moderate,Mild,20.41522491,Normal
-215,BTech,First Year,,Others,Male,18,No,No,173,50,1,No,Yes,No,No,No,1,2,1,2,1,2,1,1,1,2,1,1,1,2,1,1,2,3,None-minimal,Minimal,16.70620468,Underweight
-232,BTech,First Year,,Electronics Communication and Engineering,Male,18,Yes,Yes,167,56,2,No,Yes,No,No,No,1,1,3,1,3,3,1,3,2,2,3,2,2,2,2,1,10,6,Moderate,Mild,20.07960128,Normal
-242,BTech,First Year,,Electronics Communication and Engineering,Female,18,No,No,159,42,2,No,Yes,No,No,No,4,4,4,4,4,4,4,2,4,4,4,4,4,4,1,4,22,21,Severe,Severe,16.61326688,Underweight
-246,BTech,First Year,,Others,Male,18,No,Yes,176,83,2,No,Yes,No,No,No,2,2,2,2,3,3,2,3,2,2,2,2,2,3,3,1,11,9,Moderate,Mild,26.79493802,Overweight
-261,BTech,First Year,,Electronics Communication and Engineering,Female,19,No,No,170,65,2,No,Yes,No,No,No,4,4,4,4,2,4,3,3,3,4,3,4,4,2,2,2,18,18,Moderately Severe,Severe,22.49134948,Normal
-263,BTech,First Year,,Others,Female,19,No,No,160,57,2,No,Yes,No,No,No,4,3,4,3,2,3,3,3,4,3,3,2,3,2,1,4,16,15,Moderately Severe,Severe,22.265625,Normal
-265,BTech,First Year,,Others,Male,17,No,No,180,63,1,No,Yes,No,No,No,4,4,3,4,3,4,2,3,4,4,4,1,1,4,4,2,18,17,Moderately Severe,Severe,19.44444444,Normal
-44,BTech,First Year,,Computer Science and Engineering,Male,19,Yes,Yes,176,67,2,Yes,No,No,No,Yes,3,4,3,3,3,4,2,1,4,4,4,3,4,2,4,1,18,15,Moderately Severe,Severe,21.62964876,Normal
-225,BTech,Second Year,,Computer Science and Engineering,Female,19,No,No,153,68,2,Yes,No,No,No,Yes,3,4,4,3,2,2,4,2,3,4,3,3,4,4,2,4,20,15,Severe,Severe,29.0486565,Overweight
-31,BTech,First Year,,Electronics Communication and Engineering,Male,18,No,Yes,171,56,2,Yes,No,No,Yes,No,2,4,2,2,2,1,1,1,1,1,1,1,2,2,1,1,2,7,None-minimal,Mild,19.15119182,Normal
-40,BTech,First Year,,Computer Science and Engineering,Male,19,No,Yes,172,60,3,Yes,No,No,No,No,3,3,3,2,1,3,2,2,2,2,2,1,2,3,2,2,9,10,Mild,Moderate,20.2812331,Normal
-45,BTech,First Year,,Computer Science and Engineering,Female,18,No,No,167,60,2,Yes,No,No,No,No,2,2,1,2,2,3,4,1,1,4,2,3,3,2,3,1,11,9,Moderate,Mild,21.51385851,Normal
-74,BTech,Second Year,,Computer Science and Engineering,Male,20,No,Yes,170,94,2,Yes,No,No,Yes,No,3,2,3,1,4,2,4,2,3,4,3,3,3,1,4,3,17,12,Moderately Severe,Moderate,32.52595156,Obese
-86,BTech,Second Year,,Computer Science and Engineering,Male,20,No,No,175.26,69,2,Yes,No,No,No,No,1,1,2,1,1,2,1,1,1,1,1,1,1,1,1,1,0,2,None-minimal,Minimal,22.46381304,Normal
-114,BTech,First Year,,Computer Science and Engineering,Male,17,No,No,173,70,2,Yes,No,No,No,No,2,2,3,2,2,1,1,2,1,3,2,1,1,2,1,1,5,6,Mild,Mild,23.38868656,Normal
-127,BTech,First Year,,Computer Science and Engineering,Male,19,Yes,Yes,170,47,2,Yes,No,No,No,No,1,3,3,2,1,1,1,4,2,4,2,3,2,1,1,1,11,5,Moderate,Mild,16.26297578,Underweight
-134,BTech,First Year,,Computer Science and Engineering,Male,20,No,Yes,178,55,1,Yes,No,No,No,No,2,3,4,1,1,1,3,2,1,1,2,2,1,1,1,1,3,8,None-minimal,Mild,17.35891933,Underweight
-137,BTech,First Year,,Computer Science and Engineering,Male,20,No,Yes,179,86,2,Yes,No,No,No,No,2,4,3,3,1,3,4,3,2,4,4,4,2,2,2,2,16,13,Moderately Severe,Moderate,26.84061047,Overweight
-147,BTech,First Year,,Computer Science and Engineering,Female,18,No,No,157,65,1,Yes,No,No,No,No,1,1,1,2,1,1,1,3,2,1,3,3,3,1,3,1,11,1,Moderate,Minimal,26.37023814,Overweight
-150,BTech,First Year,,Computer Science and Engineering,Male,19,No,No,175,82,1,Yes,No,No,No,No,1,1,3,1,1,3,1,3,2,1,2,1,2,1,1,1,5,4,Mild,Minimal,26.7755102,Overweight
-165,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,173,55,2,Yes,No,No,No,No,4,2,3,4,2,3,2,2,1,3,3,2,1,1,1,1,6,13,Mild,Moderate,18.37682515,Underweight
-169,BTech,First Year,,Computer Science and Engineering,Female,18,No,Yes,169,55,3,Yes,No,No,No,No,2,3,4,3,2,4,3,3,1,3,2,2,3,3,3,3,14,14,Moderate,Moderate,19.25702882,Normal
-174,BTech,First Year,,Computer Science and Engineering,Female,18,No,No,164.6,55,2,Yes,No,No,No,No,3,3,3,4,4,4,3,3,3,1,3,3,4,4,3,1,16,17,Moderately Severe,Severe,20.30032672,Normal
-182,BTech,First Year,,Computer Science and Engineering,Male,20,No,Yes,175,85,2,Yes,No,No,No,No,4,4,4,4,4,4,4,4,4,4,4,4,1,4,4,1,21,21,Severe,Severe,27.75510204,Overweight
-200,BTech,First Year,,Computer Science and Engineering,Male,19,No,Yes,163,49,2,Yes,No,No,No,No,1,1,1,1,1,1,1,1,2,4,4,1,1,4,1,1,10,0,Moderate,Minimal,18.44254582,Underweight
-238,BTech,First Year,,Others,Male,18,No,No,180,87,1,Yes,No,No,No,No,2,2,2,1,4,4,2,2,2,1,4,2,1,4,2,1,10,10,Moderate,Moderate,26.85185185,Overweight
-244,BTech,First Year,,Electronics Communication and Engineering,Male,19,No,Yes,185,65,1,Yes,No,No,No,No,3,2,3,2,3,3,3,3,3,3,1,3,3,1,1,3,12,12,Moderate,Moderate,18.99196494,Normal
-253,BTech,First Year,,Others,Female,18,No,No,157,60,2,Yes,No,No,No,No,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,26,21,Severe,Severe,24.34175829,Normal
-254,BTech,First Year,,Others,Male,19,No,No,180,60,2,Yes,No,No,No,No,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,27,21,Severe,Severe,18.51851852,Normal
-264,BTech,First Year,,Others,Male,18,No,No,165,48,1,Yes,No,No,No,No,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,2,0,None-minimal,Minimal,17.63085399,Underweight
-266,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,163,60,2,Yes,No,No,No,No,2,1,3,3,1,3,2,2,2,4,3,3,2,2,2,4,15,8,Moderately Severe,Mild,22.58270917,Normal
-268,BTech,First Year,,Electronics Communication and Engineering,Male,18,No,No,163,68,2,Yes,No,No,No,No,2,3,4,2,1,1,1,4,2,2,3,1,1,1,2,1,8,7,Mild,Mild,25.59373706,Overweight
-12,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,176,63,2,No,No,No,No,Yes,1,2,2,1,3,1,1,3,1,2,2,1,2,1,1,1,5,4,Mild,Minimal,20.33832645,Normal
-29,BTech,First Year,,Computer Science and Engineering,Male,19,No,No,183,98,2,No,No,No,No,Yes,4,4,4,3,4,4,4,4,3,1,3,3,1,2,1,1,10,20,Moderate,Severe,29.2633402,Overweight
-36,BTech,First Year,,Electronics Communication and Engineering,Male,19,No,No,171,80,2,No,No,No,No,Yes,2,4,4,3,2,1,1,3,1,4,2,4,1,2,3,1,12,10,Moderate,Moderate,27.35884546,Overweight
-38,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,164,57,2,No,No,No,No,Yes,1,1,1,2,2,1,2,4,1,3,2,1,1,1,1,1,6,3,Mild,Minimal,21.19274242,Normal
-64,BTech,Fourth Year,,Computer Science and Engineering,Male,21,No,No,180,70,2,No,No,No,No,Yes,1,2,2,2,1,1,1,1,1,1,1,1,1,1,2,1,1,3,None-minimal,Minimal,21.60493827,Normal
-80,BTech,First Year,,Computer Science and Engineering,Male,19,No,Yes,177,57,2,No,No,No,No,Yes,2,2,2,2,1,1,1,3,1,3,3,3,3,2,1,1,11,4,Moderate,Minimal,18.19400555,Underweight
-90,BTech,Fourth Year,,Computer Science and Engineering,Female,22,Yes,Yes,166,64,2,No,No,No,No,Yes,3,2,2,2,2,2,2,1,2,2,2,2,2,1,2,1,6,8,Mild,Mild,23.22543185,Normal
-92,BTech,First Year,,Computer Science and Engineering,Male,18,Yes,No,173,65,2,No,No,No,No,Yes,1,1,1,1,2,1,1,2,1,1,2,4,2,3,3,1,10,1,Moderate,Minimal,21.71806609,Normal
-100,BTech,Second Year,,Electronics Communication and Engineering,Male,20,Yes,No,179,77,2,No,No,No,No,Yes,2,4,1,2,1,1,4,3,1,3,1,1,3,3,1,2,9,8,Mild,Mild,24.03170937,Normal
-101,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,176,49,1,No,No,No,No,Yes,2,2,2,1,2,1,1,1,1,2,1,2,2,2,1,1,4,4,None-minimal,Minimal,15.81869835,Underweight
-105,BTech,Third Year,,Electronics Communication and Engineering,Female,20,No,No,169,60,3,No,No,No,No,Yes,3,4,3,2,1,2,1,2,3,4,3,3,3,2,1,1,13,9,Moderate,Mild,21.0076678,Normal
-154,BTech,First Year,,Electronics Communication and Engineering,Male,19,Yes,No,157,55,2,No,No,No,No,Yes,2,2,2,2,3,2,2,2,2,2,2,2,1,3,1,1,7,8,Mild,Mild,22.31327843,Normal
-157,BTech,First Year,,Electronics Communication and Engineering,Male,18,No,Yes,172,53,2,No,No,No,No,Yes,3,3,4,3,4,4,4,4,1,2,2,2,1,4,1,1,9,18,Mild,Severe,17.91508924,Underweight
-170,MTech,,First Year,Others,Male,24,No,Yes,180,87,2,No,No,No,No,Yes,3,2,2,2,1,1,1,1,2,1,2,2,1,1,1,1,3,5,None-minimal,Mild,26.85185185,Overweight
-176,BTech,First Year,,Electronics Communication and Engineering,Male,18,No,No,176,54,2,No,No,No,No,Yes,3,4,4,3,2,1,4,4,2,3,2,1,4,2,1,3,13,14,Moderate,Moderate,17.43285124,Underweight
-206,BTech,First Year,,Others,Female,18,No,No,157,57,2,No,No,No,No,Yes,3,1,1,1,1,1,3,4,1,3,2,1,3,2,2,1,10,4,Moderate,Minimal,23.12467037,Normal
-222,BTech,First Year,,Electronics Communication and Engineering,Male,18,No,No,168,58,1,No,No,No,No,Yes,4,4,4,4,4,4,4,1,4,4,4,4,4,4,4,4,24,21,Severe,Severe,20.54988662,Normal
-240,BTech,First Year,,Computer Science and Engineering,Male,19,Yes,Yes,166,60,2,No,No,No,No,Yes,3,2,3,1,2,2,2,4,2,1,1,1,1,1,1,1,4,8,None-minimal,Mild,21.77384236,Normal
-256,BTech,First Year,,Others,Female,18,Yes,Yes,165,50,1,No,No,No,No,Yes,2,4,4,3,2,4,3,2,3,4,3,2,2,2,1,3,13,15,Moderate,Severe,18.36547291,Underweight
-0,BTech,First Year,,Computer Science and Engineering,Male,20,No,No,183,78,2,No,No,No,No,No,1,3,2,2,3,2,4,1,2,3,2,3,4,1,1,1,9,10,Mild,Moderate,23.29122996,Normal
-1,BTech,First Year,,Computer Science and Engineering,Male,18,No,Yes,156,65,1,No,No,No,No,No,2,1,2,1,2,1,2,1,1,1,1,2,1,2,2,1,3,4,None-minimal,Minimal,26.70940171,Overweight
-2,BTech,First Year,,Computer Science and Engineering,Male,20,No,Yes,167.5,51,2,No,No,No,No,No,1,1,2,2,2,1,1,2,1,2,2,2,1,2,1,1,5,3,Mild,Minimal,18.17776788,Underweight
-5,BTech,First Year,,Computer Science and Engineering,Male,19,No,Yes,184,70,3,No,No,No,No,No,4,3,3,3,3,4,4,3,3,3,2,4,2,4,1,2,15,17,Moderately Severe,Severe,20.6758034,Normal
-7,BTech,First Year,,Computer Science and Engineering,Male,20,No,No,183,83,2,No,No,No,No,No,2,3,3,2,3,2,4,2,1,3,2,2,2,2,1,1,7,12,Mild,Moderate,24.78425752,Normal
-8,BTech,First Year,,Computer Science and Engineering,Male,17,No,No,181,59,2,No,No,No,No,No,2,2,1,2,2,3,2,4,3,3,3,3,1,3,3,1,15,7,Moderately Severe,Mild,18.00921828,Underweight
-10,BTech,First Year,,Computer Science and Engineering,Male,19,No,Yes,160,70,2,No,No,No,No,No,4,3,3,2,1,3,4,4,2,2,3,1,4,3,3,2,15,13,Moderately Severe,Moderate,27.34375,Overweight
-11,BTech,First Year,,Electronics Communication and Engineering,Male,19,No,No,172,75,1,No,No,Yes,No,No,2,2,1,2,2,3,2,2,2,2,2,3,2,1,2,2,9,7,Mild,Mild,25.35154137,Overweight
-13,BTech,First Year,,Electronics Communication and Engineering,Male,18,No,No,165,53,2,No,No,No,No,No,2,2,2,2,3,3,2,2,1,1,2,3,1,2,3,1,7,9,Mild,Mild,19.46740129,Normal
-15,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,178,72,2,No,No,No,No,No,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,None-minimal,Minimal,22.72440348,Normal
-16,BTech,First Year,,Electronics Communication and Engineering,Male,19,No,No,150,60,2,No,No,No,No,No,3,2,3,2,3,3,3,2,3,2,3,2,2,2,2,1,10,12,Moderate,Moderate,26.66666667,Overweight
-17,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,184,62,2,No,No,No,No,No,3,3,3,3,3,2,3,2,3,3,2,3,3,3,3,1,14,13,Moderate,Moderate,18.31285444,Underweight
-18,BTech,First Year,,Computer Science and Engineering,Male,19,No,No,180,52,1,No,No,No,No,No,1,1,2,1,4,1,1,4,1,2,1,1,1,1,1,1,4,4,None-minimal,Minimal,16.04938272,Underweight
-19,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,175,53,2,No,No,No,No,No,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,0,None-minimal,Minimal,17.30612245,Underweight
-22,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,178,59,2,No,No,No,No,No,2,2,2,2,1,2,2,1,1,1,1,1,1,1,2,1,1,6,None-minimal,Mild,18.62138619,Normal
-23,BTech,First Year,,Computer Science and Engineering,Male,17,No,No,178,85,2,No,No,No,No,No,4,3,3,1,3,3,2,3,1,3,1,1,2,1,1,1,5,12,Mild,Moderate,26.82742078,Overweight
-24,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,181,91,2,No,No,No,No,No,1,2,2,1,1,3,2,1,1,2,1,1,2,1,1,1,2,5,None-minimal,Mild,27.77692989,Overweight
-25,BTech,First Year,,Computer Science and Engineering,Male,19,No,Yes,177,55,3,No,No,No,Yes,No,3,3,2,2,3,3,1,4,2,3,3,2,1,1,1,1,9,10,Mild,Moderate,17.55561939,Underweight
-26,BTech,First Year,,Computer Science and Engineering,Male,19,No,No,170,60,3,No,No,No,No,No,1,1,2,1,2,1,1,3,1,1,1,1,1,2,2,1,4,2,None-minimal,Minimal,20.76124567,Normal
-27,BTech,First Year,,Electronics Communication and Engineering,Male,19,No,No,175,68,2,No,No,No,No,No,2,1,1,2,3,3,2,2,1,3,3,2,1,1,2,1,7,7,Mild,Mild,22.20408163,Normal
-28,BTech,First Year,,Computer Science and Engineering,Male,19,No,No,170,74,2,No,No,No,Yes,No,3,3,3,3,4,3,3,3,3,3,3,3,3,3,3,3,18,15,Moderately Severe,Severe,2560.553633,Obese
-30,BTech,First Year,,Computer Science and Engineering,Male,17,No,No,185,70,2,No,No,No,No,No,2,2,3,1,4,3,3,4,1,2,3,2,1,2,1,2,9,11,Mild,Moderate,20.45288532,Normal
-34,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,176,68,1,No,No,No,No,No,4,4,1,2,1,1,1,4,4,4,1,1,1,1,1,1,9,7,Mild,Mild,21.95247934,Normal
-37,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,188,60,2,No,No,No,No,No,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,0,None-minimal,Minimal,16.97600724,Underweight
-39,BTech,First Year,,Computer Science and Engineering,Male,19,No,No,165,50,2,No,No,No,No,No,3,2,3,3,3,1,3,1,2,4,4,2,2,2,1,2,11,11,Moderate,Moderate,18.36547291,Underweight
-42,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,184,107,2,No,No,No,No,No,2,2,3,2,2,2,3,2,1,2,2,2,4,2,1,1,8,9,Mild,Mild,31.60444234,Obese
-43,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,172,58,2,No,No,No,No,No,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,None-minimal,Minimal,19.605192,Normal
-46,BTech,First Year,,Electronics Communication and Engineering,Male,19,No,Yes,167,50,2,No,No,No,No,No,2,2,1,3,3,2,1,3,1,1,2,2,1,2,1,2,6,7,Mild,Mild,17.92821543,Underweight
-47,BTech,First Year,,Computer Science and Engineering,Male,17,No,Yes,165,75,1,No,No,No,No,No,3,2,3,3,2,1,1,1,1,1,1,1,3,1,2,1,3,8,None-minimal,Mild,27.54820937,Overweight
-48,BTech,First Year,,Electronics Communication and Engineering,Male,19,No,Yes,179,80,3,No,No,No,No,No,2,3,3,2,2,2,2,2,2,3,2,2,3,1,2,2,10,9,Moderate,Mild,24.96800974,Normal
-49,BTech,First Year,,Computer Science and Engineering,Male,19,No,No,158,72,3,No,No,No,Yes,No,1,1,1,1,1,1,2,2,1,1,1,1,1,2,1,1,2,1,None-minimal,Minimal,28.84153181,Overweight
-50,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,178,65,2,No,No,No,No,No,3,3,2,1,1,1,1,1,2,2,1,3,1,1,1,1,4,5,None-minimal,Mild,20.51508648,Normal
-51,BTech,Second Year,,Computer Science and Engineering,Male,18,No,Yes,170,58,2,No,No,No,No,No,2,2,2,1,3,2,2,2,2,3,2,4,2,3,2,1,12,7,Moderate,Mild,20.06920415,Normal
-52,BTech,First Year,,Electronics Communication and Engineering,Male,18,No,No,177.8,64,3,No,No,No,No,No,2,2,3,3,2,1,2,2,3,3,1,1,3,2,1,1,8,8,Mild,Mild,20.24493845,Normal
-53,BTech,Fourth Year,,Computer Science and Engineering,Female,21,No,No,161,53,2,No,No,No,No,No,2,1,4,4,2,1,2,3,1,3,3,3,3,4,1,1,13,9,Moderate,Mild,20.44674202,Normal
-54,BTech,First Year,,Electronics Communication and Engineering,Male,20,Yes,No,179,61,4,No,No,No,No,No,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,None-minimal,Minimal,19.03810742,Normal
-56,BTech,First Year,,Computer Science and Engineering,Male,19,Yes,No,6.2,60,2,No,No,No,Yes,No,3,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,0,4,None-minimal,Minimal,15608.74089,Obese
-57,BTech,First Year,,Computer Science and Engineering,Male,19,No,No,173,78,1,No,No,No,No,No,1,2,2,3,3,3,3,3,2,3,2,2,2,3,2,2,12,10,Moderate,Moderate,26.06167931,Overweight
-58,BTech,First Year,,Computer Science and Engineering,Male,19,Yes,Yes,170,48,2,No,No,No,No,No,4,3,4,3,1,4,4,4,4,4,1,1,4,4,3,4,20,16,Severe,Severe,16.60899654,Underweight
-60,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,175,80,2,No,No,No,No,No,1,1,2,1,1,1,1,4,1,1,1,1,1,1,1,1,3,1,None-minimal,Minimal,26.12244898,Overweight
-61,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,180,67,1,No,No,No,No,No,2,2,2,4,4,4,1,1,4,4,4,4,2,3,1,1,15,12,Moderately Severe,Moderate,20.67901235,Normal
-62,BTech,First Year,,Computer Science and Engineering,Male,17,No,No,177,70,2,No,No,No,No,No,2,4,4,4,3,1,1,2,2,4,3,2,4,2,2,3,15,12,Moderately Severe,Moderate,22.34351559,Normal
-65,BTech,First Year,,Computer Science and Engineering,Male,18,No,Yes,162,55,2,No,No,No,No,No,3,3,3,2,2,2,3,4,3,1,2,1,2,2,1,1,8,11,Mild,Moderate,20.95717116,Normal
-68,BTech,Second Year,,Computer Science and Engineering,Male,20,No,No,156,60,2,No,No,No,No,No,2,3,4,1,2,3,2,2,2,1,2,1,1,1,1,1,3,10,None-minimal,Moderate,24.65483235,Normal
-70,BTech,Fourth Year,,Electronics Communication and Engineering,Male,23,No,No,182,84,3,No,No,No,Yes,No,1,1,2,2,2,1,3,3,1,1,1,2,3,2,2,1,7,5,Mild,Mild,25.35925613,Overweight
-71,BTech,First Year,,Computer Science and Engineering,Male,19,No,No,178,45,3,No,No,No,No,No,1,1,1,2,1,1,1,3,2,2,1,2,1,1,1,1,5,1,Mild,Minimal,14.20275218,Underweight
-72,BTech,First Year,,Computer Science and Engineering,Female,18,No,No,156,45,1,No,No,No,No,No,3,2,3,2,4,2,2,3,3,4,4,3,1,3,2,3,17,11,Moderately Severe,Moderate,18.49112426,Underweight
-73,BTech,First Year,,Electronics Communication and Engineering,Male,18,Yes,No,185,55,2,No,No,Yes,Yes,No,1,1,1,1,1,2,1,3,1,1,1,1,1,1,1,1,2,1,None-minimal,Minimal,16.07012418,Underweight
-76,BTech,Second Year,,Electronics Communication and Engineering,Female,20,Yes,No,167,56,2,No,No,No,No,No,2,3,3,4,3,3,4,2,2,1,3,2,3,2,1,4,11,15,Moderate,Severe,20.07960128,Normal
-78,BTech,First Year,,Computer Science and Engineering,Male,18,Yes,Yes,161,59,4,No,No,No,No,No,2,2,3,4,1,3,2,3,3,2,2,1,3,3,2,2,12,10,Moderate,Moderate,22.76146754,Normal
-79,BTech,Second Year,,Computer Science and Engineering,Male,18,No,No,180,50,2,No,No,No,No,No,1,1,1,1,1,1,1,1,1,4,1,1,1,1,1,1,3,0,None-minimal,Minimal,15.43209877,Underweight
-82,BTech,Third Year,,Computer Science and Engineering,Female,21,No,No,152,47,2,No,No,No,No,No,1,2,2,2,1,2,1,2,2,2,2,1,2,1,1,1,5,4,Mild,Minimal,20.34279778,Normal
-84,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,170,53,4,No,No,No,No,No,2,4,4,2,1,3,4,3,3,3,4,3,4,2,1,1,15,13,Moderately Severe,Moderate,18.33910035,Underweight
-85,BTech,First Year,,Electronics Communication and Engineering,Male,18,No,Yes,170.2,61,2,No,No,No,No,No,1,1,1,1,1,2,1,1,1,3,4,2,1,3,1,1,8,1,Mild,Minimal,21.05768979,Normal
-87,BTech,First Year,,Computer Science and Engineering,Female,18,No,No,175,83,1,No,No,No,No,No,2,2,2,2,2,2,2,1,2,1,1,2,1,1,1,1,2,7,None-minimal,Mild,27.10204082,Overweight
-88,BTech,First Year,,Computer Science and Engineering,Male,19,No,No,166,58,3,No,No,No,No,No,2,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,0,2,None-minimal,Minimal,21.04804761,Normal
-91,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,181,63.3,2,No,No,No,No,No,1,1,1,1,3,4,1,4,2,1,1,1,3,1,1,1,6,5,Mild,Mild,19.32175453,Normal
-94,BTech,Third Year,,Computer Science and Engineering,Male,21,No,No,172,63,2,No,No,No,No,No,1,1,2,2,3,2,1,1,1,1,2,1,1,1,1,1,1,5,None-minimal,Mild,21.29529475,Normal
-96,BTech,Third Year,,Computer Science and Engineering,Male,21,No,No,175,60,3,No,No,No,No,No,1,1,1,1,1,1,1,1,1,4,3,2,1,1,1,1,6,0,Mild,Minimal,19.59183673,Normal
-97,BTech,Second Year,,Computer Science and Engineering,Male,20,Yes,Yes,165,72,2,No,No,No,No,No,3,2,3,3,1,2,4,4,4,2,3,3,4,1,1,2,15,11,Moderately Severe,Moderate,26.44628099,Overweight
-98,BTech,First Year,,Computer Science and Engineering,Female,18,Yes,No,157.48,59,2,No,No,No,No,No,3,2,2,1,1,3,1,2,2,2,2,3,2,2,1,1,8,6,Mild,Mild,23.79037016,Normal
-102,BTech,Third Year,,Electronics Communication and Engineering,Male,22,No,No,184,68,3,No,No,No,No,No,3,3,2,1,1,1,1,4,1,2,1,1,1,2,2,1,6,5,Mild,Mild,20.08506616,Normal
-103,BTech,First Year,,Electronics Communication and Engineering,Male,17,No,No,175,75,3,No,No,No,No,No,2,2,4,2,2,1,2,3,1,3,3,2,3,2,2,2,12,8,Moderate,Mild,24.48979592,Normal
-106,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,177,75,2,No,No,No,No,No,1,2,1,1,1,1,1,3,1,1,1,1,1,1,1,1,2,1,None-minimal,Minimal,23.93948099,Normal
-108,BTech,First Year,,Computer Science and Engineering,Male,19,No,No,165,63,2,No,No,No,No,No,2,2,3,4,3,1,2,2,1,3,3,2,1,2,2,1,8,10,Mild,Moderate,23.14049587,Normal
-111,BTech,Fourth Year,,Computer Science and Engineering,Male,21,No,No,173,70,4,No,No,No,No,No,2,2,2,1,1,1,2,3,1,4,3,2,1,1,1,1,8,4,Mild,Minimal,23.38868656,Normal
-112,BTech,Second Year,,Computer Science and Engineering,Male,19,No,No,174,86,1,No,No,No,No,No,4,4,4,4,4,4,4,4,1,4,4,2,1,1,1,1,10,21,Moderate,Severe,28.40533756,Overweight
-116,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,170,60,2,No,No,No,No,No,2,2,2,2,1,1,2,1,1,1,1,1,1,1,1,1,0,5,None-minimal,Mild,20.76124567,Normal
-117,BTech,First Year,,Electronics Communication and Engineering,Male,18,No,No,172,72,1,No,No,No,No,No,2,2,3,2,1,1,3,2,1,1,1,1,2,1,1,2,3,7,None-minimal,Mild,24.33747972,Normal
-118,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,171,52,2,No,No,No,No,No,1,1,1,1,1,1,1,3,1,1,3,1,2,1,2,2,7,0,Mild,Minimal,17.78324955,Underweight
-119,BTech,Second Year,,Electronics Communication and Engineering,Male,18,No,No,5.8,59,2,No,No,No,Yes,No,4,3,2,3,3,3,4,2,3,2,3,2,2,3,3,2,13,15,Moderate,Severe,17538.64447,Obese
-120,BTech,Fourth Year,,Computer Science and Engineering,Male,21,No,No,177,74,3,No,No,No,No,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,None-minimal,Minimal,23.62028791,Normal
-122,BTech,Second Year,,Electronics Communication and Engineering,Female,20,No,No,157,58,2,No,No,No,No,No,3,4,4,3,4,3,4,2,3,4,4,2,3,2,1,1,13,18,Moderate,Severe,23.53036634,Normal
-123,BTech,Second Year,,Electronics Communication and Engineering,Male,19,No,Yes,171,55,3,No,No,No,No,No,1,2,2,3,3,2,2,2,2,2,2,2,2,2,3,2,10,8,Moderate,Mild,18.80920625,Normal
-124,BTech,Second Year,,Computer Science and Engineering,Male,18,No,No,176,68,3,No,No,Yes,No,No,2,3,2,1,1,2,4,2,1,2,1,1,1,1,1,3,4,8,None-minimal,Mild,21.95247934,Normal
-125,BTech,First Year,,Computer Science and Engineering,Male,19,Yes,No,178,87,2,No,No,No,No,No,2,2,2,1,1,1,1,2,1,3,2,3,1,1,1,1,6,3,Mild,Minimal,27.45865421,Overweight
-126,BTech,First Year,,Electronics Communication and Engineering,Male,20,No,No,172,66,2,No,No,No,No,No,2,2,3,4,3,4,2,3,1,2,2,1,3,4,1,1,9,13,Mild,Moderate,22.30935641,Normal
-132,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,171,62,2,No,No,No,No,No,1,1,2,3,2,1,1,1,1,1,3,2,1,1,1,1,3,4,None-minimal,Minimal,21.20310523,Normal
-135,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,155,67,1,No,No,No,No,No,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,2,25,21,Severe,Severe,27.88761707,Overweight
-136,BTech,First Year,,Computer Science and Engineering,Male,18,No,Yes,181,100,2,No,No,No,No,No,3,4,4,4,3,4,4,2,3,4,3,2,3,4,1,2,15,19,Moderately Severe,Severe,30.52409878,Obese
-138,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,172,75,2,No,No,No,No,No,4,2,4,4,4,4,2,4,3,3,4,4,4,4,4,1,22,17,Severe,Severe,25.35154137,Overweight
-140,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,160,60,2,No,No,No,No,No,2,3,4,3,3,2,1,3,2,4,2,4,1,2,1,1,11,11,Moderate,Moderate,23.4375,Normal
-141,BTech,First Year,,Computer Science and Engineering,Male,20,No,No,157,62,2,No,No,No,No,No,4,4,4,4,4,4,4,2,3,3,3,3,2,3,2,1,13,21,Moderate,Severe,25.15315023,Overweight
-142,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,175,46,2,No,No,No,No,No,2,2,2,1,2,2,2,3,2,2,2,3,2,2,2,1,10,6,Moderate,Mild,15.02040816,Underweight
-143,BTech,First Year,,Computer Science and Engineering,Male,18,No,Yes,171,100,1,No,No,No,No,No,4,4,4,3,2,4,4,4,4,4,4,2,4,4,4,1,22,18,Severe,Severe,34.19855682,Obese
-144,BTech,First Year,,Electronics Communication and Engineering,Male,18,No,No,182,55,1,No,No,No,No,No,2,1,2,2,4,3,2,2,1,1,1,1,1,2,3,1,4,9,None-minimal,Mild,16.60427485,Underweight
-146,BTech,First Year,,Computer Science and Engineering,Male,19,No,No,172,73.5,2,No,No,No,No,No,4,4,4,4,3,4,4,4,4,3,4,2,3,4,4,1,20,20,Severe,Severe,24.84451055,Normal
-153,BTech,First Year,,Computer Science and Engineering,Female,20,No,No,169,54,3,No,No,No,No,No,3,2,2,4,2,4,4,3,4,4,4,4,4,4,3,2,23,14,Severe,Moderate,18.90690102,Normal
-158,BTech,First Year,,Computer Science and Engineering,Female,18,No,Yes,150,31,2,No,No,No,No,No,4,4,4,4,4,4,4,1,4,4,3,2,4,4,1,4,18,21,Moderately Severe,Severe,13.77777778,Underweight
-159,BTech,First Year,,Electronics Communication and Engineering,Male,19,No,No,175,68,1,No,No,No,No,No,1,4,4,4,4,4,3,3,3,4,2,2,4,1,1,4,15,17,Moderately Severe,Severe,22.20408163,Normal
-160,BTech,First Year,,Computer Science and Engineering,Male,19,No,No,163,50,1,No,No,No,No,No,3,3,3,3,2,4,2,4,3,2,4,4,3,2,2,3,18,13,Moderately Severe,Moderate,18.81892431,Normal
-162,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,170,63,2,No,No,No,No,No,2,2,2,2,2,1,1,3,1,1,2,1,1,1,1,1,3,5,None-minimal,Mild,21.79930796,Normal
-164,BTech,First Year,,Computer Science and Engineering,Male,18,No,Yes,148,61,2,No,No,No,No,No,2,2,1,1,2,3,3,2,3,1,3,2,3,3,2,1,11,7,Moderate,Mild,27.84879474,Overweight
-166,BTech,First Year,,Electronics Communication and Engineering,Male,18,Yes,No,162.56,50,2,No,No,No,No,No,1,1,1,4,4,1,1,2,1,2,2,2,1,2,2,1,6,6,Mild,Mild,18.92093628,Normal
-167,BTech,First Year,,Electronics Communication and Engineering,Male,20,No,No,180,75,2,No,No,No,No,No,2,2,1,1,1,2,1,1,2,2,2,1,1,1,1,1,3,3,None-minimal,Minimal,23.14814815,Normal
-171,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,170,62,1,No,No,No,No,No,2,3,2,3,4,3,4,2,3,2,3,2,3,3,3,3,15,14,Moderately Severe,Moderate,21.4532872,Normal
-172,BTech,First Year,,Computer Science and Engineering,Male,18,No,Yes,160.2,70,1,No,No,No,No,No,3,2,3,3,3,2,3,3,2,2,2,2,2,3,4,4,15,12,Moderately Severe,Moderate,27.27551859,Overweight
-175,BTech,First Year,,Others,Male,19,No,No,173,65,2,No,No,No,No,No,4,4,4,4,4,4,3,4,4,4,4,4,2,2,2,1,18,20,Moderately Severe,Severe,21.71806609,Normal
-177,BTech,First Year,,Computer Science and Engineering,Male,19,No,No,159,69,2,No,No,No,No,No,2,2,2,2,2,2,2,4,2,2,2,2,4,4,2,2,15,7,Moderately Severe,Mild,27.29322416,Overweight
-180,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,180,85,2,No,No,No,No,No,2,3,4,3,4,4,4,1,3,4,4,4,4,3,4,1,19,17,Moderately Severe,Severe,26.2345679,Overweight
-181,BTech,First Year,,Electronics Communication and Engineering,Male,19,No,No,173,55,2,No,No,No,No,No,3,3,3,4,4,3,4,1,4,4,4,4,4,4,4,4,24,17,Severe,Severe,18.37682515,Underweight
-183,BTech,First Year,,Electronics Communication and Engineering,Male,18,No,No,176,90,2,No,No,No,No,No,4,3,4,3,4,3,3,3,3,4,4,3,4,4,4,1,21,17,Severe,Severe,29.05475207,Overweight
-184,BTech,First Year,,Others,Female,18,No,No,173,50,2,No,No,No,No,No,3,3,4,4,2,4,4,3,3,3,3,1,4,3,2,3,16,17,Moderately Severe,Severe,16.70620468,Underweight
-185,BTech,First Year,,Others,Male,18,No,No,177,55,1,No,No,No,No,No,1,2,2,1,1,2,1,1,1,2,1,1,1,1,1,1,1,3,None-minimal,Minimal,17.55561939,Underweight
-186,BTech,First Year,,Computer Science and Engineering,Female,19,No,No,163,53,2,No,No,No,No,No,2,2,2,2,2,1,2,2,1,1,1,1,1,2,1,1,2,6,None-minimal,Mild,19.94805977,Normal
-189,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,178,75,2,No,No,No,No,No,1,1,1,3,1,2,1,1,1,3,2,1,1,2,1,1,4,3,None-minimal,Minimal,23.67125363,Normal
-191,BTech,First Year,,Electronics Communication and Engineering,Female,18,No,No,162,49,2,No,No,No,No,No,2,1,2,1,1,1,1,4,1,2,2,1,2,3,2,1,9,2,Mild,Minimal,18.67093431,Normal
-193,BTech,First Year,,Computer Science and Engineering,Male,19,No,No,173,70,2,No,No,No,No,No,2,2,3,2,2,2,2,3,2,4,4,4,2,1,1,3,15,8,Moderately Severe,Mild,23.38868656,Normal
-196,BTech,First Year,,Computer Science and Engineering,Female,19,No,No,163,64,3,No,No,No,No,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,None-minimal,Minimal,24.08822312,Normal
-197,BTech,Second Year,,Electronics Communication and Engineering,Male,20,No,Yes,179,60,2,No,No,No,No,No,3,3,4,4,4,2,4,2,4,4,4,1,4,2,3,1,16,17,Moderately Severe,Severe,18.7260073,Normal
-199,BTech,Second Year,,Others,Male,19,No,No,167,74,2,No,No,No,No,No,2,3,3,2,3,3,3,3,2,4,2,2,2,2,2,1,11,12,Moderate,Moderate,26.53375883,Overweight
-201,BTech,First Year,,Others,Male,19,No,Yes,188,75,2,No,No,No,No,No,4,4,3,3,4,4,4,2,4,4,3,1,3,3,4,2,17,19,Moderately Severe,Severe,21.22000905,Normal
-203,MTech,,Second Year,Electronics Communication and Engineering,Male,20,No,Yes,172,66,2,No,No,No,No,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,None-minimal,Minimal,22.30935641,Normal
-205,BTech,First Year,,Computer Science and Engineering,Female,18,Yes,No,160,50,1,No,No,No,No,No,4,4,4,4,4,4,4,2,3,4,4,4,2,1,4,4,19,21,Moderately Severe,Severe,19.53125,Normal
-207,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,185.4,80,2,No,No,No,No,No,2,2,3,1,1,2,2,4,2,1,1,1,2,1,1,2,6,6,Mild,Mild,23.27397307,Normal
-208,BTech,First Year,,Computer Science and Engineering,Male,18,Yes,No,185.4,87,2,No,No,No,No,No,2,2,2,1,1,2,1,1,1,2,2,1,2,2,1,1,4,4,None-minimal,Minimal,25.31044571,Overweight
-209,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,178,93,1,No,No,Yes,Yes,No,1,1,3,4,2,1,2,2,2,4,2,3,1,2,2,1,10,7,Moderate,Mild,29.3523545,Overweight
-210,BTech,Second Year,,Others,Male,19,No,No,189,70,1,No,No,No,No,No,3,3,4,4,3,3,4,2,3,4,1,3,3,1,1,4,13,17,Moderate,Severe,19.59631589,Normal
-213,BTech,Second Year,,Computer Science and Engineering,Male,20,No,No,173,72,6,No,No,No,No,No,1,1,1,1,1,1,1,3,1,2,3,3,1,1,1,1,7,0,Mild,Minimal,24.05693475,Normal
-216,BTech,First Year,,Others,Female,20,No,No,157,56,2,No,No,No,No,No,2,3,2,3,2,3,3,3,1,1,3,2,3,3,1,1,9,11,Mild,Moderate,22.7189744,Normal
-217,BTech,First Year,,Others,Female,18,No,No,150,67,2,No,No,No,No,No,1,1,1,2,1,2,2,3,1,1,1,1,1,1,1,1,2,3,None-minimal,Minimal,29.77777778,Overweight
-218,BTech,First Year,,Others,Male,18,No,No,168,53,2,No,No,No,No,No,2,2,2,1,1,1,2,2,1,1,1,2,1,2,2,1,4,4,None-minimal,Minimal,18.77834467,Normal
-219,BTech,First Year,,Others,Male,18,No,No,169,53,2,No,No,No,No,No,3,3,2,2,3,4,4,3,2,2,3,1,4,3,3,4,16,14,Moderately Severe,Moderate,18.55677322,Normal
-220,BTech,First Year,,Electronics Communication and Engineering,Male,18,No,No,167.64,56,2,No,No,No,No,No,1,1,2,2,2,3,1,2,1,3,3,1,1,2,1,1,6,5,Mild,Mild,19.92657796,Normal
-221,BTech,First Year,,Computer Science and Engineering,Female,18,No,No,163,45,2,No,No,No,No,No,2,1,1,2,1,2,1,1,1,2,1,1,1,1,1,1,1,3,None-minimal,Minimal,16.93703188,Underweight
-224,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,163,65,1,No,No,No,No,No,1,2,1,1,1,1,2,3,1,1,2,1,1,1,1,1,3,2,None-minimal,Minimal,24.4646016,Normal
-226,BTech,First Year,,Electronics Communication and Engineering,Male,19,No,Yes,172,71,2,No,No,No,No,No,4,4,4,4,3,4,4,3,4,4,4,3,4,4,4,1,22,20,Severe,Severe,23.99945917,Normal
-227,BTech,First Year,,Electronics Communication and Engineering,Male,17,Yes,No,180,90,2,No,No,No,No,No,3,2,3,1,1,3,2,4,4,3,3,2,2,1,2,2,14,8,Moderate,Mild,27.77777778,Overweight
-228,BTech,First Year,,Others,Female,19,No,No,162,45,3,No,No,No,No,No,3,3,3,2,2,3,3,3,3,3,2,2,3,3,2,3,15,12,Moderately Severe,Moderate,17.14677641,Underweight
-230,BTech,First Year,,Electronics Communication and Engineering,Female,18,No,No,160,60,2,No,No,No,No,No,2,2,2,1,1,4,3,4,2,4,3,1,1,4,1,1,12,8,Moderate,Mild,23.4375,Normal
-231,BTech,Third Year,,Electronics Communication and Engineering,Female,20,No,No,164,60,2,No,No,No,No,No,3,3,3,4,2,4,4,3,4,4,3,3,3,3,3,3,20,16,Severe,Severe,22.30814991,Normal
-233,BTech,First Year,,Computer Science and Engineering,Male,19,No,No,165,42,3,No,No,No,No,No,1,2,2,3,1,1,1,3,2,2,2,2,2,2,2,1,9,4,Mild,Minimal,15.42699725,Underweight
-235,BTech,First Year,,Computer Science and Engineering,Male,19,No,No,183,100,2,No,No,No,No,No,1,1,1,1,1,1,1,2,1,1,1,1,2,1,1,1,2,0,None-minimal,Minimal,29.86055123,Overweight
-236,BTech,First Year,,Computer Science and Engineering,Male,19,No,No,180.34,89.5,2,No,No,No,No,No,3,4,3,2,2,1,1,3,2,4,4,2,3,2,3,2,16,9,Moderately Severe,Mild,27.51939644,Overweight
-237,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,173,62,2,No,No,No,No,No,3,3,3,2,3,4,3,2,2,2,2,2,1,1,3,1,7,14,Mild,Moderate,20.71569381,Normal
-239,BTech,First Year,,Computer Science and Engineering,Male,19,No,No,172.72,66,4,No,No,No,No,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,None-minimal,Minimal,22.12374667,Normal
-241,BTech,First Year,,Others,Male,19,No,No,179,74,2,No,No,Yes,No,No,1,1,1,1,1,1,1,1,1,4,1,1,1,1,1,1,3,0,None-minimal,Minimal,23.09540901,Normal
-243,BTech,First Year,,Others,Male,19,No,No,164,74,1,No,No,No,No,No,4,4,4,4,4,4,4,1,4,4,4,4,4,4,4,4,24,21,Severe,Severe,27.51338489,Overweight
-249,BTech,First Year,,Electronics Communication and Engineering,Female,18,No,No,152,49,2,No,No,No,No,No,4,3,3,3,3,3,3,2,3,3,3,3,3,1,1,1,11,15,Moderate,Severe,21.20844875,Normal
-250,BTech,First Year,,Electronics Communication and Engineering,Male,20,Yes,No,169,78,2,No,No,No,Yes,No,1,1,2,1,2,1,2,3,2,1,2,3,1,1,1,2,7,3,Mild,Minimal,27.30996814,Overweight
-251,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,166,56,2,No,No,No,No,No,1,1,2,1,1,2,1,2,1,1,2,2,1,2,1,1,4,2,None-minimal,Minimal,20.32225287,Normal
-252,BTech,First Year,,Others,Female,19,No,No,155,69,3,No,No,No,No,No,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,3,25,21,Severe,Severe,28.72008325,Overweight
-255,BTech,First Year,,Electronics Communication and Engineering,Male,19,Yes,No,170,72,3,No,No,No,No,No,4,4,4,3,4,4,4,3,3,4,4,1,2,3,2,2,15,20,Moderately Severe,Severe,24.91349481,Normal
-257,BTech,First Year,,Others,Female,18,No,No,160,50,2,No,No,No,No,No,3,4,4,4,4,3,4,3,3,3,2,4,4,3,4,1,18,19,Moderately Severe,Severe,19.53125,Normal
-258,BTech,First Year,,Others,Male,19,No,No,160,49,3,No,No,No,No,No,4,4,4,4,3,4,1,4,4,3,4,1,4,4,4,1,20,17,Severe,Severe,19.140625,Normal
-260,BTech,First Year,,Others,Female,18,No,No,162,65,2,No,No,No,No,No,4,3,4,4,3,3,3,4,4,4,4,4,4,3,4,4,26,17,Severe,Severe,24.76756592,Normal
-262,BTech,First Year,,Others,Male,19,Yes,No,145,55,1,No,No,No,No,No,3,4,4,3,3,4,1,2,4,4,4,3,4,1,1,3,17,15,Moderately Severe,Severe,26.15933413,Overweight
-267,BTech,First Year,,Others,Male,18,No,Yes,170,75,2,No,No,No,No,No,1,3,4,1,4,1,1,1,1,1,3,3,1,1,1,1,4,8,None-minimal,Mild,25.95155709,Overweight
-269,BTech,First Year,,Others,Male,21,Yes,No,170,55,2,No,No,No,No,No,2,1,2,3,3,2,1,2,2,3,3,2,3,2,3,2,13,7,Moderate,Mild,19.03114187,Normal
-270,BTech,First Year,,Computer Science and Engineering,Male,18,No,No,168,45,2,No,No,No,No,No,1,2,2,1,1,2,2,1,1,1,1,1,1,1,1,1,0,4,None-minimal,Minimal,15.94387755,Underweight
+,Choose your course type.,Which year BTech student are you ?,Which branch are you enrolled in ?,What is your gender ?,What is your age ? ( in years),Did you have to frequently change school in your schooldays ?,Do you live in a rented accommodation ?,Provide your height in cms . (only number),Provide your weight in Kgs .(only number),How many siblings are you in total ? (including you),Do you live with a single parent/guardian ?,Do both of your parents work ?,Do you smoke ?,Are you specially abled ?,Have you ever been constantly bullied by someone ?,"1. Feeling nervous, anxious or on edge .",2. Not being able to stop or control worrying .,3.Worrying too much about different things .,4. Having trouble in relaxing .,5. Being so restless that it is hard to sit still .,6. Becoming easily annoyed or irritable .,7. Feeling afraid as if something awful might happen .,1. Little interest or pleasure in doing things .,"2. Feeling down, depressed or hopeless .","3. Trouble falling asleep, staying asleep, or sleeping too much .",4.Feeling tired or having little energy .,5.Poor appetite or overeating .,6.Feeling bad about yourself - or that you’re a failure or have let yourself or your family down .,"7. Trouble concentrating on things, such as reading the newspaper or watching television .","8. Moving or speaking so slowly that other people could have noticed. Or, the opposite - being so fidgety or restless that you have been moving around a lot more than usual .",9. Thoughts that you would be better off dead or of hurting yourself in some way .,PHQ-9 Score,GAD-7 Score,Depression Severity,Anxiety Severity,BMI,BMI Category
+121,BTech,First Year,Computer Science and Engineering,Male,18,No,No,170,85,2,Yes,Yes,No,No,No,3,3,4,4,2,3,4,2,1,4,3,1,3,2,2,1,10,16,Moderate,Severe,29.41176471,Overweight
+131,BTech,First Year,Computer Science and Engineering,Male,18,No,No,167,61,2,Yes,Yes,No,No,No,3,2,2,3,4,3,2,4,2,4,4,4,1,1,1,1,13,12,Moderate,Moderate,21.87242282,Normal
+163,BTech,First Year,Computer Science and Engineering,Female,18,No,No,148,60,2,Yes,Yes,No,No,No,4,4,4,4,4,4,4,2,4,4,4,4,4,4,4,1,22,21,Severe,Severe,27.39225712,Overweight
+168,BTech,First Year,Computer Science and Engineering,Male,18,No,No,181,73,1,Yes,Yes,No,No,No,1,2,2,2,1,2,1,2,1,3,2,1,1,1,1,1,4,4,None-minimal,Minimal,22.28259211,Normal
+188,BTech,First Year,Computer Science and Engineering,Male,19,No,No,182,84,1,Yes,Yes,No,No,No,1,1,2,1,1,2,2,3,1,3,1,2,1,2,1,1,6,3,Mild,Minimal,25.35925613,Overweight
+223,BTech,First Year,Computer Science and Engineering,Male,19,No,No,179,59,4,Yes,Yes,No,No,No,2,1,4,4,4,4,4,1,4,4,4,4,4,4,4,4,24,16,Severe,Severe,18.41390718,Underweight
+229,BTech,First Year,Computer Science and Engineering,Male,19,No,No,169.4,76,1,Yes,Yes,No,No,No,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,9,7,Mild,Mild,26.48419521,Overweight
+245,BTech,First Year,Electronics Communication and Engineering,Male,18,Yes,No,176,73,2,Yes,Yes,Yes,No,No,4,4,4,4,1,2,4,4,2,1,4,4,1,1,1,1,10,16,Moderate,Severe,23.56663223,Normal
+248,BTech,First Year,Computer Science and Engineering,Female,18,No,No,160,39,1,Yes,Yes,No,No,No,2,2,3,2,3,4,3,3,2,1,4,3,4,3,4,3,18,12,Moderately Severe,Moderate,15.234375,Underweight
+14,BTech,First Year,Computer Science and Engineering,Male,18,Yes,Yes,166,80,2,No,Yes,No,No,Yes,2,2,4,4,1,2,4,3,4,4,4,4,4,1,4,4,23,12,Severe,Moderate,29.03178981,Overweight
+69,BTech,Fourth Year,Computer Science and Engineering,Male,21,No,No,181,75,1,No,Yes,No,No,Yes,2,1,1,1,1,1,1,1,1,2,1,2,1,1,2,1,3,1,None-minimal,Minimal,22.89307408,Normal
+83,BTech,First Year,Electronics Communication and Engineering,Male,20,No,No,149.8,57.2,4,No,Yes,No,Yes,Yes,2,2,2,2,2,2,1,4,4,1,1,1,2,1,1,1,7,6,Mild,Mild,2549.015064,Obese
+130,BTech,First Year,Computer Science and Engineering,Female,18,No,Yes,160,45,2,No,Yes,No,No,Yes,4,3,2,3,3,4,4,3,3,1,2,3,2,3,2,1,11,16,Moderate,Severe,17.578125,Underweight
+156,BTech,First Year,Computer Science and Engineering,Male,18,No,No,178,78,2,No,Yes,No,No,Yes,2,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,27,19,Severe,Severe,24.61810377,Normal
+202,BTech,First Year,Computer Science and Engineering,Male,18,No,Yes,170,52,2,No,Yes,No,No,Yes,2,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,0,2,None-minimal,Minimal,17.99307958,Underweight
+204,BTech,First Year,Computer Science and Engineering,Male,18,No,No,179,95,2,No,Yes,No,No,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,27,21,Severe,Severe,29.64951156,Overweight
+214,BTech,First Year,Electronics Communication and Engineering,Male,18,No,No,169,53,2,No,Yes,No,Yes,Yes,1,2,3,1,2,2,1,4,2,1,2,1,1,2,1,1,6,5,Mild,Mild,18.55677322,Normal
+234,BTech,Second Year,Others,Female,20,Yes,No,155,50,3,No,Yes,No,No,Yes,3,3,3,4,2,1,1,3,4,4,4,2,3,4,2,1,18,10,Moderately Severe,Moderate,20.81165453,Normal
+247,BTech,First Year,Others,Female,18,No,No,173,66,2,No,Yes,Yes,No,Yes,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,26,21,Severe,Severe,22.05219018,Normal
+259,BTech,First Year,Others,Male,19,No,No,175,80,1,No,Yes,No,No,Yes,3,3,4,4,2,4,4,2,3,3,3,4,3,3,4,4,20,17,Severe,Severe,26.12244898,Overweight
+3,BTech,First Year,Computer Science and Engineering,Male,18,Yes,No,181,88,1,No,Yes,No,No,No,2,2,2,2,2,3,2,2,2,3,2,3,2,3,2,3,13,8,Moderate,Mild,26.86120692,Overweight
+4,BTech,First Year,Computer Science and Engineering,Male,18,No,No,165,61,4,No,Yes,No,No,No,1,2,2,3,2,2,1,2,1,4,3,1,3,1,1,1,8,6,Mild,Mild,22.40587695,Normal
+6,BTech,First Year,Computer Science and Engineering,Male,18,No,No,165,60,2,No,Yes,No,No,No,2,1,1,1,2,3,2,4,1,2,2,2,1,1,3,1,8,5,Mild,Mild,22.03856749,Normal
+9,BTech,First Year,Computer Science and Engineering,Male,18,No,No,176,48,1,No,Yes,No,No,No,1,1,2,1,1,2,1,4,1,1,2,1,1,2,1,1,5,2,Mild,Minimal,15.49586777,Underweight
+20,BTech,First Year,Computer Science and Engineering,Male,17,No,Yes,169,64,2,No,Yes,No,No,No,1,2,2,1,2,1,2,2,1,2,2,1,1,2,1,2,5,4,Mild,Minimal,22.40817899,Normal
+21,BTech,First Year,Computer Science and Engineering,Male,18,No,No,170,67,2,No,Yes,No,No,No,1,2,2,1,2,2,2,2,2,2,2,2,2,3,3,2,11,5,Moderate,Mild,23.183391,Normal
+32,BTech,First Year,Computer Science and Engineering,Male,19,No,No,173,60,2,No,Yes,No,No,No,1,1,2,1,1,1,1,3,1,1,1,1,1,2,1,1,3,1,None-minimal,Minimal,20.04744562,Normal
+33,BTech,First Year,Computer Science and Engineering,Male,19,No,No,173,70,2,No,Yes,No,No,No,2,1,1,2,1,2,1,1,1,2,1,1,1,2,2,1,3,3,None-minimal,Minimal,23.38868656,Normal
+35,BTech,First Year,Electronics Communication and Engineering,Male,18,No,No,178,66,2,No,Yes,No,No,No,3,2,3,4,1,3,3,2,2,3,1,2,2,3,2,3,11,12,Moderate,Moderate,20.83070319,Normal
+41,BTech,First Year,Electronics Communication and Engineering,Male,18,No,No,175,84,2,No,Yes,No,No,No,2,3,3,2,4,3,2,3,2,3,2,2,3,1,3,2,12,12,Moderate,Moderate,27.42857143,Overweight
+55,BTech,First Year,Computer Science and Engineering,Male,19,No,No,180,75,2,No,Yes,No,No,No,4,3,4,4,4,3,4,1,3,3,3,2,1,1,2,3,10,19,Moderate,Severe,23.14814815,Normal
+59,BTech,First Year,Computer Science and Engineering,Male,18,No,No,165,52,1,No,Yes,No,No,No,2,2,2,2,3,3,3,3,3,2,3,2,3,2,1,1,11,10,Moderate,Moderate,19.10009183,Normal
+63,BTech,Second Year,Electronics Communication and Engineering,Female,20,No,No,157,80,1,No,Yes,No,No,No,4,3,2,3,2,2,2,3,3,3,3,3,2,2,2,2,14,11,Moderate,Moderate,32.45567772,Obese
+66,BTech,First Year,Computer Science and Engineering,Male,20,No,No,160,60,2,No,Yes,No,No,No,3,2,3,3,2,3,3,1,2,4,2,3,3,2,1,1,10,12,Moderate,Moderate,23.4375,Normal
+67,BTech,First Year,Computer Science and Engineering,Male,19,No,No,172,60,2,No,Yes,No,No,No,2,2,3,1,1,2,3,3,1,1,2,2,1,2,1,1,5,7,Mild,Mild,20.2812331,Normal
+75,BTech,First Year,Computer Science and Engineering,Male,20,No,No,172.7,65,1,No,Yes,No,No,No,2,3,3,3,3,2,2,1,1,3,2,1,2,1,1,1,4,11,None-minimal,Moderate,21.79358524,Normal
+77,BTech,First Year,Computer Science and Engineering,Male,18,No,No,176,50,1,No,Yes,No,No,No,2,1,3,2,3,3,1,3,1,3,3,2,1,1,1,1,7,8,Mild,Mild,16.14152893,Underweight
+81,BTech,Fourth Year,Electronics Communication and Engineering,Male,23,No,No,178,55,1,No,Yes,No,No,No,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,0,1,None-minimal,Minimal,17.35891933,Underweight
+89,BTech,Third Year,Computer Science and Engineering,Male,20,No,No,173,60,1,No,Yes,No,No,No,4,2,3,1,1,1,3,1,4,1,1,1,4,1,1,1,6,8,Mild,Mild,20.04744562,Normal
+93,BTech,First Year,Computer Science and Engineering,Male,19,No,No,160,65,2,No,Yes,No,No,No,3,2,2,2,2,2,3,2,2,2,2,1,2,1,2,1,6,9,Mild,Mild,25.390625,Overweight
+95,BTech,First Year,Electronics Communication and Engineering,Male,18,No,No,178,68,1,No,Yes,No,No,No,2,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,None-minimal,Minimal,21.46193662,Normal
+99,BTech,First Year,Computer Science and Engineering,Male,18,No,No,171,72,2,No,Yes,No,No,No,1,4,4,4,4,1,1,3,1,4,1,3,1,2,1,1,8,12,Mild,Moderate,24.62296091,Normal
+104,BTech,First Year,Computer Science and Engineering,Male,19,No,Yes,179,64,2,No,Yes,No,No,No,3,3,2,3,3,2,2,1,2,2,2,1,2,1,3,1,6,11,Mild,Moderate,19.97440779,Normal
+107,BTech,First Year,Computer Science and Engineering,Male,20,No,No,180,80,2,No,Yes,No,No,No,2,1,1,1,2,1,1,3,2,2,1,2,1,2,4,1,9,2,Mild,Minimal,24.69135802,Normal
+109,BTech,First Year,Electronics Communication and Engineering,Male,18,No,No,173,55,2,No,Yes,No,No,No,1,1,1,1,3,1,1,3,1,1,1,1,1,1,1,1,2,2,None-minimal,Minimal,18.37682515,Underweight
+110,BTech,First Year,Electronics Communication and Engineering,Male,18,No,No,168,52,2,No,Yes,No,No,No,1,1,1,1,1,2,2,4,1,1,1,1,1,1,1,1,3,2,None-minimal,Minimal,18.42403628,Underweight
+113,BTech,Third Year,Electronics Communication and Engineering,Male,19,No,No,177.8,74.6,2,No,Yes,No,No,No,1,1,1,1,3,2,3,3,2,1,1,1,3,3,2,1,8,5,Mild,Mild,23.59800638,Normal
+115,BTech,First Year,Computer Science and Engineering,Male,19,No,No,168,65,2,No,Yes,No,No,No,2,2,1,1,1,1,1,3,1,1,1,1,1,1,2,1,3,2,None-minimal,Minimal,23.03004535,Normal
+128,BTech,First Year,Computer Science and Engineering,Female,19,No,No,154,58,2,No,Yes,No,No,No,3,2,2,2,1,3,3,3,3,1,3,1,2,1,2,3,10,9,Moderate,Mild,24.45606342,Normal
+129,BTech,First Year,Electronics Communication and Engineering,Male,18,Yes,No,170,77,2,No,Yes,No,No,No,1,1,2,4,4,4,2,2,2,4,4,4,4,4,2,1,18,11,Moderately Severe,Moderate,26.64359862,Overweight
+133,BTech,First Year,Computer Science and Engineering,Male,18,No,No,160,60,3,No,Yes,No,No,No,4,4,4,4,3,4,4,1,4,4,1,4,4,1,1,4,15,20,Moderately Severe,Severe,23.4375,Normal
+139,BTech,First Year,Computer Science and Engineering,Male,18,No,No,179,90,2,No,Yes,No,No,No,3,3,3,3,2,3,3,3,3,4,3,3,2,3,2,1,15,13,Moderately Severe,Moderate,28.08901095,Overweight
+145,BTech,First Year,Computer Science and Engineering,Male,18,No,No,178,52,2,No,Yes,No,No,No,3,3,1,4,4,4,2,1,3,4,2,2,4,1,4,1,13,14,Moderate,Moderate,16.41206918,Underweight
+148,BTech,First Year,Computer Science and Engineering,Male,18,No,Yes,180,90,1,No,Yes,No,No,No,3,3,3,4,4,2,4,4,3,1,4,1,4,1,1,1,11,16,Moderate,Severe,27.77777778,Overweight
+149,BTech,First Year,Computer Science and Engineering,Male,17,No,No,167,58,3,No,Yes,No,No,No,3,2,2,2,1,1,1,4,2,3,2,3,2,1,2,1,11,5,Moderate,Mild,20.79672989,Normal
+151,BTech,First Year,Computer Science and Engineering,Male,19,No,Yes,168,52,3,No,Yes,No,No,No,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4,26,21,Severe,Severe,18.42403628,Underweight
+152,BTech,First Year,Computer Science and Engineering,Male,18,Yes,Yes,162.5,60,2,No,Yes,No,No,No,1,1,1,1,1,1,1,1,1,4,1,1,1,1,1,1,3,0,None-minimal,Minimal,22.72189349,Normal
+155,BTech,First Year,Computer Science and Engineering,Male,18,Yes,No,174,67,4,No,Yes,No,No,No,1,1,1,1,1,1,1,4,1,2,2,2,1,1,1,1,6,0,Mild,Minimal,22.12973973,Normal
+161,BTech,First Year,Computer Science and Engineering,Female,18,No,No,180,90,1,No,Yes,No,No,No,3,4,3,3,1,2,2,2,2,3,2,2,2,2,1,1,8,11,Mild,Moderate,27.77777778,Overweight
+173,BTech,First Year,Others,Male,18,No,Yes,170,55,1,No,Yes,No,No,No,1,1,2,2,3,2,1,3,1,3,3,2,1,1,2,2,9,5,Mild,Mild,19.03114187,Normal
+178,BTech,First Year,Computer Science and Engineering,Male,18,Yes,No,175,55,2,No,Yes,No,No,No,4,4,4,3,4,3,3,2,4,4,2,1,4,3,1,1,13,18,Moderate,Severe,17.95918367,Underweight
+179,BTech,First Year,Computer Science and Engineering,Male,20,No,Yes,177,70,3,No,Yes,No,No,No,3,4,4,3,2,3,3,3,3,3,3,1,4,3,3,3,17,15,Moderately Severe,Severe,22.34351559,Normal
+187,BTech,First Year,Electronics Communication and Engineering,Male,18,No,No,171,75,2,No,Yes,No,No,No,2,4,4,4,2,2,2,3,2,4,3,4,4,4,2,1,18,13,Moderately Severe,Moderate,25.64891762,Overweight
+190,BTech,First Year,Others,Male,18,No,No,175,60,2,No,Yes,No,No,No,3,2,3,2,2,2,2,3,1,2,3,2,1,3,2,1,9,9,Mild,Mild,19.59183673,Normal
+192,BTech,First Year,Electronics Communication and Engineering,Female,18,No,No,170,43,2,No,Yes,No,No,No,3,3,3,2,1,4,2,3,4,2,2,3,3,2,1,2,13,11,Moderate,Moderate,14.87889273,Underweight
+194,BTech,Second Year,Computer Science and Engineering,Female,21,Yes,No,157,48,2,No,Yes,No,No,No,3,2,3,3,3,3,3,3,2,2,2,2,3,2,2,2,11,13,Moderate,Moderate,19.47340663,Normal
+195,BTech,First Year,Electronics Communication and Engineering,Male,18,No,No,168,70,2,No,Yes,No,No,No,2,2,2,1,1,2,1,2,2,1,2,2,1,1,1,1,4,4,None-minimal,Minimal,24.8015873,Normal
+198,BTech,Second Year,Computer Science and Engineering,Female,18,No,Yes,165,65,2,No,Yes,No,No,No,2,2,2,1,1,3,2,3,3,3,2,1,3,3,1,3,13,6,Moderate,Mild,23.87511478,Normal
+212,BTech,First Year,Computer Science and Engineering,Male,19,No,No,170,59,2,No,Yes,No,No,No,2,2,2,2,3,1,3,3,2,3,3,2,2,3,1,1,11,8,Moderate,Mild,20.41522491,Normal
+215,BTech,First Year,Others,Male,18,No,No,173,50,1,No,Yes,No,No,No,1,2,1,2,1,2,1,1,1,2,1,1,1,2,1,1,2,3,None-minimal,Minimal,16.70620468,Underweight
+232,BTech,First Year,Electronics Communication and Engineering,Male,18,Yes,Yes,167,56,2,No,Yes,No,No,No,1,1,3,1,3,3,1,3,2,2,3,2,2,2,2,1,10,6,Moderate,Mild,20.07960128,Normal
+242,BTech,First Year,Electronics Communication and Engineering,Female,18,No,No,159,42,2,No,Yes,No,No,No,4,4,4,4,4,4,4,2,4,4,4,4,4,4,1,4,22,21,Severe,Severe,16.61326688,Underweight
+246,BTech,First Year,Others,Male,18,No,Yes,176,83,2,No,Yes,No,No,No,2,2,2,2,3,3,2,3,2,2,2,2,2,3,3,1,11,9,Moderate,Mild,26.79493802,Overweight
+261,BTech,First Year,Electronics Communication and Engineering,Female,19,No,No,170,65,2,No,Yes,No,No,No,4,4,4,4,2,4,3,3,3,4,3,4,4,2,2,2,18,18,Moderately Severe,Severe,22.49134948,Normal
+263,BTech,First Year,Others,Female,19,No,No,160,57,2,No,Yes,No,No,No,4,3,4,3,2,3,3,3,4,3,3,2,3,2,1,4,16,15,Moderately Severe,Severe,22.265625,Normal
+265,BTech,First Year,Others,Male,17,No,No,180,63,1,No,Yes,No,No,No,4,4,3,4,3,4,2,3,4,4,4,1,1,4,4,2,18,17,Moderately Severe,Severe,19.44444444,Normal
+44,BTech,First Year,Computer Science and Engineering,Male,19,Yes,Yes,176,67,2,Yes,No,No,No,Yes,3,4,3,3,3,4,2,1,4,4,4,3,4,2,4,1,18,15,Moderately Severe,Severe,21.62964876,Normal
+225,BTech,Second Year,Computer Science and Engineering,Female,19,No,No,153,68,2,Yes,No,No,No,Yes,3,4,4,3,2,2,4,2,3,4,3,3,4,4,2,4,20,15,Severe,Severe,29.0486565,Overweight
+31,BTech,First Year,Electronics Communication and Engineering,Male,18,No,Yes,171,56,2,Yes,No,No,Yes,No,2,4,2,2,2,1,1,1,1,1,1,1,2,2,1,1,2,7,None-minimal,Mild,19.15119182,Normal
+40,BTech,First Year,Computer Science and Engineering,Male,19,No,Yes,172,60,3,Yes,No,No,No,No,3,3,3,2,1,3,2,2,2,2,2,1,2,3,2,2,9,10,Mild,Moderate,20.2812331,Normal
+45,BTech,First Year,Computer Science and Engineering,Female,18,No,No,167,60,2,Yes,No,No,No,No,2,2,1,2,2,3,4,1,1,4,2,3,3,2,3,1,11,9,Moderate,Mild,21.51385851,Normal
+74,BTech,Second Year,Computer Science and Engineering,Male,20,No,Yes,170,94,2,Yes,No,No,Yes,No,3,2,3,1,4,2,4,2,3,4,3,3,3,1,4,3,17,12,Moderately Severe,Moderate,32.52595156,Obese
+86,BTech,Second Year,Computer Science and Engineering,Male,20,No,No,175.26,69,2,Yes,No,No,No,No,1,1,2,1,1,2,1,1,1,1,1,1,1,1,1,1,0,2,None-minimal,Minimal,22.46381304,Normal
+114,BTech,First Year,Computer Science and Engineering,Male,17,No,No,173,70,2,Yes,No,No,No,No,2,2,3,2,2,1,1,2,1,3,2,1,1,2,1,1,5,6,Mild,Mild,23.38868656,Normal
+127,BTech,First Year,Computer Science and Engineering,Male,19,Yes,Yes,170,47,2,Yes,No,No,No,No,1,3,3,2,1,1,1,4,2,4,2,3,2,1,1,1,11,5,Moderate,Mild,16.26297578,Underweight
+134,BTech,First Year,Computer Science and Engineering,Male,20,No,Yes,178,55,1,Yes,No,No,No,No,2,3,4,1,1,1,3,2,1,1,2,2,1,1,1,1,3,8,None-minimal,Mild,17.35891933,Underweight
+137,BTech,First Year,Computer Science and Engineering,Male,20,No,Yes,179,86,2,Yes,No,No,No,No,2,4,3,3,1,3,4,3,2,4,4,4,2,2,2,2,16,13,Moderately Severe,Moderate,26.84061047,Overweight
+147,BTech,First Year,Computer Science and Engineering,Female,18,No,No,157,65,1,Yes,No,No,No,No,1,1,1,2,1,1,1,3,2,1,3,3,3,1,3,1,11,1,Moderate,Minimal,26.37023814,Overweight
+150,BTech,First Year,Computer Science and Engineering,Male,19,No,No,175,82,1,Yes,No,No,No,No,1,1,3,1,1,3,1,3,2,1,2,1,2,1,1,1,5,4,Mild,Minimal,26.7755102,Overweight
+165,BTech,First Year,Computer Science and Engineering,Male,18,No,No,173,55,2,Yes,No,No,No,No,4,2,3,4,2,3,2,2,1,3,3,2,1,1,1,1,6,13,Mild,Moderate,18.37682515,Underweight
+169,BTech,First Year,Computer Science and Engineering,Female,18,No,Yes,169,55,3,Yes,No,No,No,No,2,3,4,3,2,4,3,3,1,3,2,2,3,3,3,3,14,14,Moderate,Moderate,19.25702882,Normal
+174,BTech,First Year,Computer Science and Engineering,Female,18,No,No,164.6,55,2,Yes,No,No,No,No,3,3,3,4,4,4,3,3,3,1,3,3,4,4,3,1,16,17,Moderately Severe,Severe,20.30032672,Normal
+182,BTech,First Year,Computer Science and Engineering,Male,20,No,Yes,175,85,2,Yes,No,No,No,No,4,4,4,4,4,4,4,4,4,4,4,4,1,4,4,1,21,21,Severe,Severe,27.75510204,Overweight
+200,BTech,First Year,Computer Science and Engineering,Male,19,No,Yes,163,49,2,Yes,No,No,No,No,1,1,1,1,1,1,1,1,2,4,4,1,1,4,1,1,10,0,Moderate,Minimal,18.44254582,Underweight
+238,BTech,First Year,Others,Male,18,No,No,180,87,1,Yes,No,No,No,No,2,2,2,1,4,4,2,2,2,1,4,2,1,4,2,1,10,10,Moderate,Moderate,26.85185185,Overweight
+244,BTech,First Year,Electronics Communication and Engineering,Male,19,No,Yes,185,65,1,Yes,No,No,No,No,3,2,3,2,3,3,3,3,3,3,1,3,3,1,1,3,12,12,Moderate,Moderate,18.99196494,Normal
+253,BTech,First Year,Others,Female,18,No,No,157,60,2,Yes,No,No,No,No,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,26,21,Severe,Severe,24.34175829,Normal
+254,BTech,First Year,Others,Male,19,No,No,180,60,2,Yes,No,No,No,No,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,27,21,Severe,Severe,18.51851852,Normal
+264,BTech,First Year,Others,Male,18,No,No,165,48,1,Yes,No,No,No,No,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,2,0,None-minimal,Minimal,17.63085399,Underweight
+266,BTech,First Year,Computer Science and Engineering,Male,18,No,No,163,60,2,Yes,No,No,No,No,2,1,3,3,1,3,2,2,2,4,3,3,2,2,2,4,15,8,Moderately Severe,Mild,22.58270917,Normal
+268,BTech,First Year,Electronics Communication and Engineering,Male,18,No,No,163,68,2,Yes,No,No,No,No,2,3,4,2,1,1,1,4,2,2,3,1,1,1,2,1,8,7,Mild,Mild,25.59373706,Overweight
+12,BTech,First Year,Computer Science and Engineering,Male,18,No,No,176,63,2,No,No,No,No,Yes,1,2,2,1,3,1,1,3,1,2,2,1,2,1,1,1,5,4,Mild,Minimal,20.33832645,Normal
+29,BTech,First Year,Computer Science and Engineering,Male,19,No,No,183,98,2,No,No,No,No,Yes,4,4,4,3,4,4,4,4,3,1,3,3,1,2,1,1,10,20,Moderate,Severe,29.2633402,Overweight
+36,BTech,First Year,Electronics Communication and Engineering,Male,19,No,No,171,80,2,No,No,No,No,Yes,2,4,4,3,2,1,1,3,1,4,2,4,1,2,3,1,12,10,Moderate,Moderate,27.35884546,Overweight
+38,BTech,First Year,Computer Science and Engineering,Male,18,No,No,164,57,2,No,No,No,No,Yes,1,1,1,2,2,1,2,4,1,3,2,1,1,1,1,1,6,3,Mild,Minimal,21.19274242,Normal
+64,BTech,Fourth Year,Computer Science and Engineering,Male,21,No,No,180,70,2,No,No,No,No,Yes,1,2,2,2,1,1,1,1,1,1,1,1,1,1,2,1,1,3,None-minimal,Minimal,21.60493827,Normal
+80,BTech,First Year,Computer Science and Engineering,Male,19,No,Yes,177,57,2,No,No,No,No,Yes,2,2,2,2,1,1,1,3,1,3,3,3,3,2,1,1,11,4,Moderate,Minimal,18.19400555,Underweight
+90,BTech,Fourth Year,Computer Science and Engineering,Female,22,Yes,Yes,166,64,2,No,No,No,No,Yes,3,2,2,2,2,2,2,1,2,2,2,2,2,1,2,1,6,8,Mild,Mild,23.22543185,Normal
+92,BTech,First Year,Computer Science and Engineering,Male,18,Yes,No,173,65,2,No,No,No,No,Yes,1,1,1,1,2,1,1,2,1,1,2,4,2,3,3,1,10,1,Moderate,Minimal,21.71806609,Normal
+100,BTech,Second Year,Electronics Communication and Engineering,Male,20,Yes,No,179,77,2,No,No,No,No,Yes,2,4,1,2,1,1,4,3,1,3,1,1,3,3,1,2,9,8,Mild,Mild,24.03170937,Normal
+101,BTech,First Year,Computer Science and Engineering,Male,18,No,No,176,49,1,No,No,No,No,Yes,2,2,2,1,2,1,1,1,1,2,1,2,2,2,1,1,4,4,None-minimal,Minimal,15.81869835,Underweight
+105,BTech,Third Year,Electronics Communication and Engineering,Female,20,No,No,169,60,3,No,No,No,No,Yes,3,4,3,2,1,2,1,2,3,4,3,3,3,2,1,1,13,9,Moderate,Mild,21.0076678,Normal
+154,BTech,First Year,Electronics Communication and Engineering,Male,19,Yes,No,157,55,2,No,No,No,No,Yes,2,2,2,2,3,2,2,2,2,2,2,2,1,3,1,1,7,8,Mild,Mild,22.31327843,Normal
+157,BTech,First Year,Electronics Communication and Engineering,Male,18,No,Yes,172,53,2,No,No,No,No,Yes,3,3,4,3,4,4,4,4,1,2,2,2,1,4,1,1,9,18,Mild,Severe,17.91508924,Underweight
+176,BTech,First Year,Electronics Communication and Engineering,Male,18,No,No,176,54,2,No,No,No,No,Yes,3,4,4,3,2,1,4,4,2,3,2,1,4,2,1,3,13,14,Moderate,Moderate,17.43285124,Underweight
+206,BTech,First Year,Others,Female,18,No,No,157,57,2,No,No,No,No,Yes,3,1,1,1,1,1,3,4,1,3,2,1,3,2,2,1,10,4,Moderate,Minimal,23.12467037,Normal
+222,BTech,First Year,Electronics Communication and Engineering,Male,18,No,No,168,58,1,No,No,No,No,Yes,4,4,4,4,4,4,4,1,4,4,4,4,4,4,4,4,24,21,Severe,Severe,20.54988662,Normal
+240,BTech,First Year,Computer Science and Engineering,Male,19,Yes,Yes,166,60,2,No,No,No,No,Yes,3,2,3,1,2,2,2,4,2,1,1,1,1,1,1,1,4,8,None-minimal,Mild,21.77384236,Normal
+256,BTech,First Year,Others,Female,18,Yes,Yes,165,50,1,No,No,No,No,Yes,2,4,4,3,2,4,3,2,3,4,3,2,2,2,1,3,13,15,Moderate,Severe,18.36547291,Underweight
+0,BTech,First Year,Computer Science and Engineering,Male,20,No,No,183,78,2,No,No,No,No,No,1,3,2,2,3,2,4,1,2,3,2,3,4,1,1,1,9,10,Mild,Moderate,23.29122996,Normal
+1,BTech,First Year,Computer Science and Engineering,Male,18,No,Yes,156,65,1,No,No,No,No,No,2,1,2,1,2,1,2,1,1,1,1,2,1,2,2,1,3,4,None-minimal,Minimal,26.70940171,Overweight
+2,BTech,First Year,Computer Science and Engineering,Male,20,No,Yes,167.5,51,2,No,No,No,No,No,1,1,2,2,2,1,1,2,1,2,2,2,1,2,1,1,5,3,Mild,Minimal,18.17776788,Underweight
+5,BTech,First Year,Computer Science and Engineering,Male,19,No,Yes,184,70,3,No,No,No,No,No,4,3,3,3,3,4,4,3,3,3,2,4,2,4,1,2,15,17,Moderately Severe,Severe,20.6758034,Normal
+7,BTech,First Year,Computer Science and Engineering,Male,20,No,No,183,83,2,No,No,No,No,No,2,3,3,2,3,2,4,2,1,3,2,2,2,2,1,1,7,12,Mild,Moderate,24.78425752,Normal
+8,BTech,First Year,Computer Science and Engineering,Male,17,No,No,181,59,2,No,No,No,No,No,2,2,1,2,2,3,2,4,3,3,3,3,1,3,3,1,15,7,Moderately Severe,Mild,18.00921828,Underweight
+10,BTech,First Year,Computer Science and Engineering,Male,19,No,Yes,160,70,2,No,No,No,No,No,4,3,3,2,1,3,4,4,2,2,3,1,4,3,3,2,15,13,Moderately Severe,Moderate,27.34375,Overweight
+11,BTech,First Year,Electronics Communication and Engineering,Male,19,No,No,172,75,1,No,No,Yes,No,No,2,2,1,2,2,3,2,2,2,2,2,3,2,1,2,2,9,7,Mild,Mild,25.35154137,Overweight
+13,BTech,First Year,Electronics Communication and Engineering,Male,18,No,No,165,53,2,No,No,No,No,No,2,2,2,2,3,3,2,2,1,1,2,3,1,2,3,1,7,9,Mild,Mild,19.46740129,Normal
+15,BTech,First Year,Computer Science and Engineering,Male,18,No,No,178,72,2,No,No,No,No,No,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,None-minimal,Minimal,22.72440348,Normal
+16,BTech,First Year,Electronics Communication and Engineering,Male,19,No,No,150,60,2,No,No,No,No,No,3,2,3,2,3,3,3,2,3,2,3,2,2,2,2,1,10,12,Moderate,Moderate,26.66666667,Overweight
+17,BTech,First Year,Computer Science and Engineering,Male,18,No,No,184,62,2,No,No,No,No,No,3,3,3,3,3,2,3,2,3,3,2,3,3,3,3,1,14,13,Moderate,Moderate,18.31285444,Underweight
+18,BTech,First Year,Computer Science and Engineering,Male,19,No,No,180,52,1,No,No,No,No,No,1,1,2,1,4,1,1,4,1,2,1,1,1,1,1,1,4,4,None-minimal,Minimal,16.04938272,Underweight
+19,BTech,First Year,Computer Science and Engineering,Male,18,No,No,175,53,2,No,No,No,No,No,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,0,None-minimal,Minimal,17.30612245,Underweight
+22,BTech,First Year,Computer Science and Engineering,Male,18,No,No,178,59,2,No,No,No,No,No,2,2,2,2,1,2,2,1,1,1,1,1,1,1,2,1,1,6,None-minimal,Mild,18.62138619,Normal
+23,BTech,First Year,Computer Science and Engineering,Male,17,No,No,178,85,2,No,No,No,No,No,4,3,3,1,3,3,2,3,1,3,1,1,2,1,1,1,5,12,Mild,Moderate,26.82742078,Overweight
+24,BTech,First Year,Computer Science and Engineering,Male,18,No,No,181,91,2,No,No,No,No,No,1,2,2,1,1,3,2,1,1,2,1,1,2,1,1,1,2,5,None-minimal,Mild,27.77692989,Overweight
+25,BTech,First Year,Computer Science and Engineering,Male,19,No,Yes,177,55,3,No,No,No,Yes,No,3,3,2,2,3,3,1,4,2,3,3,2,1,1,1,1,9,10,Mild,Moderate,17.55561939,Underweight
+26,BTech,First Year,Computer Science and Engineering,Male,19,No,No,170,60,3,No,No,No,No,No,1,1,2,1,2,1,1,3,1,1,1,1,1,2,2,1,4,2,None-minimal,Minimal,20.76124567,Normal
+27,BTech,First Year,Electronics Communication and Engineering,Male,19,No,No,175,68,2,No,No,No,No,No,2,1,1,2,3,3,2,2,1,3,3,2,1,1,2,1,7,7,Mild,Mild,22.20408163,Normal
+28,BTech,First Year,Computer Science and Engineering,Male,19,No,No,170,74,2,No,No,No,Yes,No,3,3,3,3,4,3,3,3,3,3,3,3,3,3,3,3,18,15,Moderately Severe,Severe,2560.553633,Obese
+30,BTech,First Year,Computer Science and Engineering,Male,17,No,No,185,70,2,No,No,No,No,No,2,2,3,1,4,3,3,4,1,2,3,2,1,2,1,2,9,11,Mild,Moderate,20.45288532,Normal
+34,BTech,First Year,Computer Science and Engineering,Male,18,No,No,176,68,1,No,No,No,No,No,4,4,1,2,1,1,1,4,4,4,1,1,1,1,1,1,9,7,Mild,Mild,21.95247934,Normal
+37,BTech,First Year,Computer Science and Engineering,Male,18,No,No,188,60,2,No,No,No,No,No,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,0,None-minimal,Minimal,16.97600724,Underweight
+39,BTech,First Year,Computer Science and Engineering,Male,19,No,No,165,50,2,No,No,No,No,No,3,2,3,3,3,1,3,1,2,4,4,2,2,2,1,2,11,11,Moderate,Moderate,18.36547291,Underweight
+42,BTech,First Year,Computer Science and Engineering,Male,18,No,No,184,107,2,No,No,No,No,No,2,2,3,2,2,2,3,2,1,2,2,2,4,2,1,1,8,9,Mild,Mild,31.60444234,Obese
+43,BTech,First Year,Computer Science and Engineering,Male,18,No,No,172,58,2,No,No,No,No,No,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,None-minimal,Minimal,19.605192,Normal
+46,BTech,First Year,Electronics Communication and Engineering,Male,19,No,Yes,167,50,2,No,No,No,No,No,2,2,1,3,3,2,1,3,1,1,2,2,1,2,1,2,6,7,Mild,Mild,17.92821543,Underweight
+47,BTech,First Year,Computer Science and Engineering,Male,17,No,Yes,165,75,1,No,No,No,No,No,3,2,3,3,2,1,1,1,1,1,1,1,3,1,2,1,3,8,None-minimal,Mild,27.54820937,Overweight
+48,BTech,First Year,Electronics Communication and Engineering,Male,19,No,Yes,179,80,3,No,No,No,No,No,2,3,3,2,2,2,2,2,2,3,2,2,3,1,2,2,10,9,Moderate,Mild,24.96800974,Normal
+49,BTech,First Year,Computer Science and Engineering,Male,19,No,No,158,72,3,No,No,No,Yes,No,1,1,1,1,1,1,2,2,1,1,1,1,1,2,1,1,2,1,None-minimal,Minimal,28.84153181,Overweight
+50,BTech,First Year,Computer Science and Engineering,Male,18,No,No,178,65,2,No,No,No,No,No,3,3,2,1,1,1,1,1,2,2,1,3,1,1,1,1,4,5,None-minimal,Mild,20.51508648,Normal
+51,BTech,Second Year,Computer Science and Engineering,Male,18,No,Yes,170,58,2,No,No,No,No,No,2,2,2,1,3,2,2,2,2,3,2,4,2,3,2,1,12,7,Moderate,Mild,20.06920415,Normal
+52,BTech,First Year,Electronics Communication and Engineering,Male,18,No,No,177.8,64,3,No,No,No,No,No,2,2,3,3,2,1,2,2,3,3,1,1,3,2,1,1,8,8,Mild,Mild,20.24493845,Normal
+53,BTech,Fourth Year,Computer Science and Engineering,Female,21,No,No,161,53,2,No,No,No,No,No,2,1,4,4,2,1,2,3,1,3,3,3,3,4,1,1,13,9,Moderate,Mild,20.44674202,Normal
+54,BTech,First Year,Electronics Communication and Engineering,Male,20,Yes,No,179,61,4,No,No,No,No,No,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,None-minimal,Minimal,19.03810742,Normal
+56,BTech,First Year,Computer Science and Engineering,Male,19,Yes,No,6.2,60,2,No,No,No,Yes,No,3,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,0,4,None-minimal,Minimal,15608.74089,Obese
+57,BTech,First Year,Computer Science and Engineering,Male,19,No,No,173,78,1,No,No,No,No,No,1,2,2,3,3,3,3,3,2,3,2,2,2,3,2,2,12,10,Moderate,Moderate,26.06167931,Overweight
+58,BTech,First Year,Computer Science and Engineering,Male,19,Yes,Yes,170,48,2,No,No,No,No,No,4,3,4,3,1,4,4,4,4,4,1,1,4,4,3,4,20,16,Severe,Severe,16.60899654,Underweight
+60,BTech,First Year,Computer Science and Engineering,Male,18,No,No,175,80,2,No,No,No,No,No,1,1,2,1,1,1,1,4,1,1,1,1,1,1,1,1,3,1,None-minimal,Minimal,26.12244898,Overweight
+61,BTech,First Year,Computer Science and Engineering,Male,18,No,No,180,67,1,No,No,No,No,No,2,2,2,4,4,4,1,1,4,4,4,4,2,3,1,1,15,12,Moderately Severe,Moderate,20.67901235,Normal
+62,BTech,First Year,Computer Science and Engineering,Male,17,No,No,177,70,2,No,No,No,No,No,2,4,4,4,3,1,1,2,2,4,3,2,4,2,2,3,15,12,Moderately Severe,Moderate,22.34351559,Normal
+65,BTech,First Year,Computer Science and Engineering,Male,18,No,Yes,162,55,2,No,No,No,No,No,3,3,3,2,2,2,3,4,3,1,2,1,2,2,1,1,8,11,Mild,Moderate,20.95717116,Normal
+68,BTech,Second Year,Computer Science and Engineering,Male,20,No,No,156,60,2,No,No,No,No,No,2,3,4,1,2,3,2,2,2,1,2,1,1,1,1,1,3,10,None-minimal,Moderate,24.65483235,Normal
+70,BTech,Fourth Year,Electronics Communication and Engineering,Male,23,No,No,182,84,3,No,No,No,Yes,No,1,1,2,2,2,1,3,3,1,1,1,2,3,2,2,1,7,5,Mild,Mild,25.35925613,Overweight
+71,BTech,First Year,Computer Science and Engineering,Male,19,No,No,178,45,3,No,No,No,No,No,1,1,1,2,1,1,1,3,2,2,1,2,1,1,1,1,5,1,Mild,Minimal,14.20275218,Underweight
+72,BTech,First Year,Computer Science and Engineering,Female,18,No,No,156,45,1,No,No,No,No,No,3,2,3,2,4,2,2,3,3,4,4,3,1,3,2,3,17,11,Moderately Severe,Moderate,18.49112426,Underweight
+73,BTech,First Year,Electronics Communication and Engineering,Male,18,Yes,No,185,55,2,No,No,Yes,Yes,No,1,1,1,1,1,2,1,3,1,1,1,1,1,1,1,1,2,1,None-minimal,Minimal,16.07012418,Underweight
+76,BTech,Second Year,Electronics Communication and Engineering,Female,20,Yes,No,167,56,2,No,No,No,No,No,2,3,3,4,3,3,4,2,2,1,3,2,3,2,1,4,11,15,Moderate,Severe,20.07960128,Normal
+78,BTech,First Year,Computer Science and Engineering,Male,18,Yes,Yes,161,59,4,No,No,No,No,No,2,2,3,4,1,3,2,3,3,2,2,1,3,3,2,2,12,10,Moderate,Moderate,22.76146754,Normal
+79,BTech,Second Year,Computer Science and Engineering,Male,18,No,No,180,50,2,No,No,No,No,No,1,1,1,1,1,1,1,1,1,4,1,1,1,1,1,1,3,0,None-minimal,Minimal,15.43209877,Underweight
+82,BTech,Third Year,Computer Science and Engineering,Female,21,No,No,152,47,2,No,No,No,No,No,1,2,2,2,1,2,1,2,2,2,2,1,2,1,1,1,5,4,Mild,Minimal,20.34279778,Normal
+84,BTech,First Year,Computer Science and Engineering,Male,18,No,No,170,53,4,No,No,No,No,No,2,4,4,2,1,3,4,3,3,3,4,3,4,2,1,1,15,13,Moderately Severe,Moderate,18.33910035,Underweight
+85,BTech,First Year,Electronics Communication and Engineering,Male,18,No,Yes,170.2,61,2,No,No,No,No,No,1,1,1,1,1,2,1,1,1,3,4,2,1,3,1,1,8,1,Mild,Minimal,21.05768979,Normal
+87,BTech,First Year,Computer Science and Engineering,Female,18,No,No,175,83,1,No,No,No,No,No,2,2,2,2,2,2,2,1,2,1,1,2,1,1,1,1,2,7,None-minimal,Mild,27.10204082,Overweight
+88,BTech,First Year,Computer Science and Engineering,Male,19,No,No,166,58,3,No,No,No,No,No,2,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,0,2,None-minimal,Minimal,21.04804761,Normal
+91,BTech,First Year,Computer Science and Engineering,Male,18,No,No,181,63.3,2,No,No,No,No,No,1,1,1,1,3,4,1,4,2,1,1,1,3,1,1,1,6,5,Mild,Mild,19.32175453,Normal
+94,BTech,Third Year,Computer Science and Engineering,Male,21,No,No,172,63,2,No,No,No,No,No,1,1,2,2,3,2,1,1,1,1,2,1,1,1,1,1,1,5,None-minimal,Mild,21.29529475,Normal
+96,BTech,Third Year,Computer Science and Engineering,Male,21,No,No,175,60,3,No,No,No,No,No,1,1,1,1,1,1,1,1,1,4,3,2,1,1,1,1,6,0,Mild,Minimal,19.59183673,Normal
+97,BTech,Second Year,Computer Science and Engineering,Male,20,Yes,Yes,165,72,2,No,No,No,No,No,3,2,3,3,1,2,4,4,4,2,3,3,4,1,1,2,15,11,Moderately Severe,Moderate,26.44628099,Overweight
+98,BTech,First Year,Computer Science and Engineering,Female,18,Yes,No,157.48,59,2,No,No,No,No,No,3,2,2,1,1,3,1,2,2,2,2,3,2,2,1,1,8,6,Mild,Mild,23.79037016,Normal
+102,BTech,Third Year,Electronics Communication and Engineering,Male,22,No,No,184,68,3,No,No,No,No,No,3,3,2,1,1,1,1,4,1,2,1,1,1,2,2,1,6,5,Mild,Mild,20.08506616,Normal
+103,BTech,First Year,Electronics Communication and Engineering,Male,17,No,No,175,75,3,No,No,No,No,No,2,2,4,2,2,1,2,3,1,3,3,2,3,2,2,2,12,8,Moderate,Mild,24.48979592,Normal
+106,BTech,First Year,Computer Science and Engineering,Male,18,No,No,177,75,2,No,No,No,No,No,1,2,1,1,1,1,1,3,1,1,1,1,1,1,1,1,2,1,None-minimal,Minimal,23.93948099,Normal
+108,BTech,First Year,Computer Science and Engineering,Male,19,No,No,165,63,2,No,No,No,No,No,2,2,3,4,3,1,2,2,1,3,3,2,1,2,2,1,8,10,Mild,Moderate,23.14049587,Normal
+111,BTech,Fourth Year,Computer Science and Engineering,Male,21,No,No,173,70,4,No,No,No,No,No,2,2,2,1,1,1,2,3,1,4,3,2,1,1,1,1,8,4,Mild,Minimal,23.38868656,Normal
+112,BTech,Second Year,Computer Science and Engineering,Male,19,No,No,174,86,1,No,No,No,No,No,4,4,4,4,4,4,4,4,1,4,4,2,1,1,1,1,10,21,Moderate,Severe,28.40533756,Overweight
+116,BTech,First Year,Computer Science and Engineering,Male,18,No,No,170,60,2,No,No,No,No,No,2,2,2,2,1,1,2,1,1,1,1,1,1,1,1,1,0,5,None-minimal,Mild,20.76124567,Normal
+117,BTech,First Year,Electronics Communication and Engineering,Male,18,No,No,172,72,1,No,No,No,No,No,2,2,3,2,1,1,3,2,1,1,1,1,2,1,1,2,3,7,None-minimal,Mild,24.33747972,Normal
+118,BTech,First Year,Computer Science and Engineering,Male,18,No,No,171,52,2,No,No,No,No,No,1,1,1,1,1,1,1,3,1,1,3,1,2,1,2,2,7,0,Mild,Minimal,17.78324955,Underweight
+119,BTech,Second Year,Electronics Communication and Engineering,Male,18,No,No,5.8,59,2,No,No,No,Yes,No,4,3,2,3,3,3,4,2,3,2,3,2,2,3,3,2,13,15,Moderate,Severe,17538.64447,Obese
+120,BTech,Fourth Year,Computer Science and Engineering,Male,21,No,No,177,74,3,No,No,No,No,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,None-minimal,Minimal,23.62028791,Normal
+122,BTech,Second Year,Electronics Communication and Engineering,Female,20,No,No,157,58,2,No,No,No,No,No,3,4,4,3,4,3,4,2,3,4,4,2,3,2,1,1,13,18,Moderate,Severe,23.53036634,Normal
+123,BTech,Second Year,Electronics Communication and Engineering,Male,19,No,Yes,171,55,3,No,No,No,No,No,1,2,2,3,3,2,2,2,2,2,2,2,2,2,3,2,10,8,Moderate,Mild,18.80920625,Normal
+124,BTech,Second Year,Computer Science and Engineering,Male,18,No,No,176,68,3,No,No,Yes,No,No,2,3,2,1,1,2,4,2,1,2,1,1,1,1,1,3,4,8,None-minimal,Mild,21.95247934,Normal
+125,BTech,First Year,Computer Science and Engineering,Male,19,Yes,No,178,87,2,No,No,No,No,No,2,2,2,1,1,1,1,2,1,3,2,3,1,1,1,1,6,3,Mild,Minimal,27.45865421,Overweight
+126,BTech,First Year,Electronics Communication and Engineering,Male,20,No,No,172,66,2,No,No,No,No,No,2,2,3,4,3,4,2,3,1,2,2,1,3,4,1,1,9,13,Mild,Moderate,22.30935641,Normal
+132,BTech,First Year,Computer Science and Engineering,Male,18,No,No,171,62,2,No,No,No,No,No,1,1,2,3,2,1,1,1,1,1,3,2,1,1,1,1,3,4,None-minimal,Minimal,21.20310523,Normal
+135,BTech,First Year,Computer Science and Engineering,Male,18,No,No,155,67,1,No,No,No,No,No,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,2,25,21,Severe,Severe,27.88761707,Overweight
+136,BTech,First Year,Computer Science and Engineering,Male,18,No,Yes,181,100,2,No,No,No,No,No,3,4,4,4,3,4,4,2,3,4,3,2,3,4,1,2,15,19,Moderately Severe,Severe,30.52409878,Obese
+138,BTech,First Year,Computer Science and Engineering,Male,18,No,No,172,75,2,No,No,No,No,No,4,2,4,4,4,4,2,4,3,3,4,4,4,4,4,1,22,17,Severe,Severe,25.35154137,Overweight
+140,BTech,First Year,Computer Science and Engineering,Male,18,No,No,160,60,2,No,No,No,No,No,2,3,4,3,3,2,1,3,2,4,2,4,1,2,1,1,11,11,Moderate,Moderate,23.4375,Normal
+141,BTech,First Year,Computer Science and Engineering,Male,20,No,No,157,62,2,No,No,No,No,No,4,4,4,4,4,4,4,2,3,3,3,3,2,3,2,1,13,21,Moderate,Severe,25.15315023,Overweight
+142,BTech,First Year,Computer Science and Engineering,Male,18,No,No,175,46,2,No,No,No,No,No,2,2,2,1,2,2,2,3,2,2,2,3,2,2,2,1,10,6,Moderate,Mild,15.02040816,Underweight
+143,BTech,First Year,Computer Science and Engineering,Male,18,No,Yes,171,100,1,No,No,No,No,No,4,4,4,3,2,4,4,4,4,4,4,2,4,4,4,1,22,18,Severe,Severe,34.19855682,Obese
+144,BTech,First Year,Electronics Communication and Engineering,Male,18,No,No,182,55,1,No,No,No,No,No,2,1,2,2,4,3,2,2,1,1,1,1,1,2,3,1,4,9,None-minimal,Mild,16.60427485,Underweight
+146,BTech,First Year,Computer Science and Engineering,Male,19,No,No,172,73.5,2,No,No,No,No,No,4,4,4,4,3,4,4,4,4,3,4,2,3,4,4,1,20,20,Severe,Severe,24.84451055,Normal
+153,BTech,First Year,Computer Science and Engineering,Female,20,No,No,169,54,3,No,No,No,No,No,3,2,2,4,2,4,4,3,4,4,4,4,4,4,3,2,23,14,Severe,Moderate,18.90690102,Normal
+158,BTech,First Year,Computer Science and Engineering,Female,18,No,Yes,150,31,2,No,No,No,No,No,4,4,4,4,4,4,4,1,4,4,3,2,4,4,1,4,18,21,Moderately Severe,Severe,13.77777778,Underweight
+159,BTech,First Year,Electronics Communication and Engineering,Male,19,No,No,175,68,1,No,No,No,No,No,1,4,4,4,4,4,3,3,3,4,2,2,4,1,1,4,15,17,Moderately Severe,Severe,22.20408163,Normal
+160,BTech,First Year,Computer Science and Engineering,Male,19,No,No,163,50,1,No,No,No,No,No,3,3,3,3,2,4,2,4,3,2,4,4,3,2,2,3,18,13,Moderately Severe,Moderate,18.81892431,Normal
+162,BTech,First Year,Computer Science and Engineering,Male,18,No,No,170,63,2,No,No,No,No,No,2,2,2,2,2,1,1,3,1,1,2,1,1,1,1,1,3,5,None-minimal,Mild,21.79930796,Normal
+164,BTech,First Year,Computer Science and Engineering,Male,18,No,Yes,148,61,2,No,No,No,No,No,2,2,1,1,2,3,3,2,3,1,3,2,3,3,2,1,11,7,Moderate,Mild,27.84879474,Overweight
+166,BTech,First Year,Electronics Communication and Engineering,Male,18,Yes,No,162.56,50,2,No,No,No,No,No,1,1,1,4,4,1,1,2,1,2,2,2,1,2,2,1,6,6,Mild,Mild,18.92093628,Normal
+167,BTech,First Year,Electronics Communication and Engineering,Male,20,No,No,180,75,2,No,No,No,No,No,2,2,1,1,1,2,1,1,2,2,2,1,1,1,1,1,3,3,None-minimal,Minimal,23.14814815,Normal
+171,BTech,First Year,Computer Science and Engineering,Male,18,No,No,170,62,1,No,No,No,No,No,2,3,2,3,4,3,4,2,3,2,3,2,3,3,3,3,15,14,Moderately Severe,Moderate,21.4532872,Normal
+172,BTech,First Year,Computer Science and Engineering,Male,18,No,Yes,160.2,70,1,No,No,No,No,No,3,2,3,3,3,2,3,3,2,2,2,2,2,3,4,4,15,12,Moderately Severe,Moderate,27.27551859,Overweight
+175,BTech,First Year,Others,Male,19,No,No,173,65,2,No,No,No,No,No,4,4,4,4,4,4,3,4,4,4,4,4,2,2,2,1,18,20,Moderately Severe,Severe,21.71806609,Normal
+177,BTech,First Year,Computer Science and Engineering,Male,19,No,No,159,69,2,No,No,No,No,No,2,2,2,2,2,2,2,4,2,2,2,2,4,4,2,2,15,7,Moderately Severe,Mild,27.29322416,Overweight
+180,BTech,First Year,Computer Science and Engineering,Male,18,No,No,180,85,2,No,No,No,No,No,2,3,4,3,4,4,4,1,3,4,4,4,4,3,4,1,19,17,Moderately Severe,Severe,26.2345679,Overweight
+181,BTech,First Year,Electronics Communication and Engineering,Male,19,No,No,173,55,2,No,No,No,No,No,3,3,3,4,4,3,4,1,4,4,4,4,4,4,4,4,24,17,Severe,Severe,18.37682515,Underweight
+183,BTech,First Year,Electronics Communication and Engineering,Male,18,No,No,176,90,2,No,No,No,No,No,4,3,4,3,4,3,3,3,3,4,4,3,4,4,4,1,21,17,Severe,Severe,29.05475207,Overweight
+184,BTech,First Year,Others,Female,18,No,No,173,50,2,No,No,No,No,No,3,3,4,4,2,4,4,3,3,3,3,1,4,3,2,3,16,17,Moderately Severe,Severe,16.70620468,Underweight
+185,BTech,First Year,Others,Male,18,No,No,177,55,1,No,No,No,No,No,1,2,2,1,1,2,1,1,1,2,1,1,1,1,1,1,1,3,None-minimal,Minimal,17.55561939,Underweight
+186,BTech,First Year,Computer Science and Engineering,Female,19,No,No,163,53,2,No,No,No,No,No,2,2,2,2,2,1,2,2,1,1,1,1,1,2,1,1,2,6,None-minimal,Mild,19.94805977,Normal
+189,BTech,First Year,Computer Science and Engineering,Male,18,No,No,178,75,2,No,No,No,No,No,1,1,1,3,1,2,1,1,1,3,2,1,1,2,1,1,4,3,None-minimal,Minimal,23.67125363,Normal
+191,BTech,First Year,Electronics Communication and Engineering,Female,18,No,No,162,49,2,No,No,No,No,No,2,1,2,1,1,1,1,4,1,2,2,1,2,3,2,1,9,2,Mild,Minimal,18.67093431,Normal
+193,BTech,First Year,Computer Science and Engineering,Male,19,No,No,173,70,2,No,No,No,No,No,2,2,3,2,2,2,2,3,2,4,4,4,2,1,1,3,15,8,Moderately Severe,Mild,23.38868656,Normal
+196,BTech,First Year,Computer Science and Engineering,Female,19,No,No,163,64,3,No,No,No,No,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,None-minimal,Minimal,24.08822312,Normal
+197,BTech,Second Year,Electronics Communication and Engineering,Male,20,No,Yes,179,60,2,No,No,No,No,No,3,3,4,4,4,2,4,2,4,4,4,1,4,2,3,1,16,17,Moderately Severe,Severe,18.7260073,Normal
+199,BTech,Second Year,Others,Male,19,No,No,167,74,2,No,No,No,No,No,2,3,3,2,3,3,3,3,2,4,2,2,2,2,2,1,11,12,Moderate,Moderate,26.53375883,Overweight
+201,BTech,First Year,Others,Male,19,No,Yes,188,75,2,No,No,No,No,No,4,4,3,3,4,4,4,2,4,4,3,1,3,3,4,2,17,19,Moderately Severe,Severe,21.22000905,Normal
+205,BTech,First Year,Computer Science and Engineering,Female,18,Yes,No,160,50,1,No,No,No,No,No,4,4,4,4,4,4,4,2,3,4,4,4,2,1,4,4,19,21,Moderately Severe,Severe,19.53125,Normal
+207,BTech,First Year,Computer Science and Engineering,Male,18,No,No,185.4,80,2,No,No,No,No,No,2,2,3,1,1,2,2,4,2,1,1,1,2,1,1,2,6,6,Mild,Mild,23.27397307,Normal
+208,BTech,First Year,Computer Science and Engineering,Male,18,Yes,No,185.4,87,2,No,No,No,No,No,2,2,2,1,1,2,1,1,1,2,2,1,2,2,1,1,4,4,None-minimal,Minimal,25.31044571,Overweight
+209,BTech,First Year,Computer Science and Engineering,Male,18,No,No,178,93,1,No,No,Yes,Yes,No,1,1,3,4,2,1,2,2,2,4,2,3,1,2,2,1,10,7,Moderate,Mild,29.3523545,Overweight
+210,BTech,Second Year,Others,Male,19,No,No,189,70,1,No,No,No,No,No,3,3,4,4,3,3,4,2,3,4,1,3,3,1,1,4,13,17,Moderate,Severe,19.59631589,Normal
+213,BTech,Second Year,Computer Science and Engineering,Male,20,No,No,173,72,6,No,No,No,No,No,1,1,1,1,1,1,1,3,1,2,3,3,1,1,1,1,7,0,Mild,Minimal,24.05693475,Normal
+216,BTech,First Year,Others,Female,20,No,No,157,56,2,No,No,No,No,No,2,3,2,3,2,3,3,3,1,1,3,2,3,3,1,1,9,11,Mild,Moderate,22.7189744,Normal
+217,BTech,First Year,Others,Female,18,No,No,150,67,2,No,No,No,No,No,1,1,1,2,1,2,2,3,1,1,1,1,1,1,1,1,2,3,None-minimal,Minimal,29.77777778,Overweight
+218,BTech,First Year,Others,Male,18,No,No,168,53,2,No,No,No,No,No,2,2,2,1,1,1,2,2,1,1,1,2,1,2,2,1,4,4,None-minimal,Minimal,18.77834467,Normal
+219,BTech,First Year,Others,Male,18,No,No,169,53,2,No,No,No,No,No,3,3,2,2,3,4,4,3,2,2,3,1,4,3,3,4,16,14,Moderately Severe,Moderate,18.55677322,Normal
+220,BTech,First Year,Electronics Communication and Engineering,Male,18,No,No,167.64,56,2,No,No,No,No,No,1,1,2,2,2,3,1,2,1,3,3,1,1,2,1,1,6,5,Mild,Mild,19.92657796,Normal
+221,BTech,First Year,Computer Science and Engineering,Female,18,No,No,163,45,2,No,No,No,No,No,2,1,1,2,1,2,1,1,1,2,1,1,1,1,1,1,1,3,None-minimal,Minimal,16.93703188,Underweight
+224,BTech,First Year,Computer Science and Engineering,Male,18,No,No,163,65,1,No,No,No,No,No,1,2,1,1,1,1,2,3,1,1,2,1,1,1,1,1,3,2,None-minimal,Minimal,24.4646016,Normal
+226,BTech,First Year,Electronics Communication and Engineering,Male,19,No,Yes,172,71,2,No,No,No,No,No,4,4,4,4,3,4,4,3,4,4,4,3,4,4,4,1,22,20,Severe,Severe,23.99945917,Normal
+227,BTech,First Year,Electronics Communication and Engineering,Male,17,Yes,No,180,90,2,No,No,No,No,No,3,2,3,1,1,3,2,4,4,3,3,2,2,1,2,2,14,8,Moderate,Mild,27.77777778,Overweight
+228,BTech,First Year,Others,Female,19,No,No,162,45,3,No,No,No,No,No,3,3,3,2,2,3,3,3,3,3,2,2,3,3,2,3,15,12,Moderately Severe,Moderate,17.14677641,Underweight
+230,BTech,First Year,Electronics Communication and Engineering,Female,18,No,No,160,60,2,No,No,No,No,No,2,2,2,1,1,4,3,4,2,4,3,1,1,4,1,1,12,8,Moderate,Mild,23.4375,Normal
+231,BTech,Third Year,Electronics Communication and Engineering,Female,20,No,No,164,60,2,No,No,No,No,No,3,3,3,4,2,4,4,3,4,4,3,3,3,3,3,3,20,16,Severe,Severe,22.30814991,Normal
+233,BTech,First Year,Computer Science and Engineering,Male,19,No,No,165,42,3,No,No,No,No,No,1,2,2,3,1,1,1,3,2,2,2,2,2,2,2,1,9,4,Mild,Minimal,15.42699725,Underweight
+235,BTech,First Year,Computer Science and Engineering,Male,19,No,No,183,100,2,No,No,No,No,No,1,1,1,1,1,1,1,2,1,1,1,1,2,1,1,1,2,0,None-minimal,Minimal,29.86055123,Overweight
+236,BTech,First Year,Computer Science and Engineering,Male,19,No,No,180.34,89.5,2,No,No,No,No,No,3,4,3,2,2,1,1,3,2,4,4,2,3,2,3,2,16,9,Moderately Severe,Mild,27.51939644,Overweight
+237,BTech,First Year,Computer Science and Engineering,Male,18,No,No,173,62,2,No,No,No,No,No,3,3,3,2,3,4,3,2,2,2,2,2,1,1,3,1,7,14,Mild,Moderate,20.71569381,Normal
+239,BTech,First Year,Computer Science and Engineering,Male,19,No,No,172.72,66,4,No,No,No,No,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,None-minimal,Minimal,22.12374667,Normal
+241,BTech,First Year,Others,Male,19,No,No,179,74,2,No,No,Yes,No,No,1,1,1,1,1,1,1,1,1,4,1,1,1,1,1,1,3,0,None-minimal,Minimal,23.09540901,Normal
+243,BTech,First Year,Others,Male,19,No,No,164,74,1,No,No,No,No,No,4,4,4,4,4,4,4,1,4,4,4,4,4,4,4,4,24,21,Severe,Severe,27.51338489,Overweight
+249,BTech,First Year,Electronics Communication and Engineering,Female,18,No,No,152,49,2,No,No,No,No,No,4,3,3,3,3,3,3,2,3,3,3,3,3,1,1,1,11,15,Moderate,Severe,21.20844875,Normal
+250,BTech,First Year,Electronics Communication and Engineering,Male,20,Yes,No,169,78,2,No,No,No,Yes,No,1,1,2,1,2,1,2,3,2,1,2,3,1,1,1,2,7,3,Mild,Minimal,27.30996814,Overweight
+251,BTech,First Year,Computer Science and Engineering,Male,18,No,No,166,56,2,No,No,No,No,No,1,1,2,1,1,2,1,2,1,1,2,2,1,2,1,1,4,2,None-minimal,Minimal,20.32225287,Normal
+252,BTech,First Year,Others,Female,19,No,No,155,69,3,No,No,No,No,No,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,3,25,21,Severe,Severe,28.72008325,Overweight
+255,BTech,First Year,Electronics Communication and Engineering,Male,19,Yes,No,170,72,3,No,No,No,No,No,4,4,4,3,4,4,4,3,3,4,4,1,2,3,2,2,15,20,Moderately Severe,Severe,24.91349481,Normal
+257,BTech,First Year,Others,Female,18,No,No,160,50,2,No,No,No,No,No,3,4,4,4,4,3,4,3,3,3,2,4,4,3,4,1,18,19,Moderately Severe,Severe,19.53125,Normal
+258,BTech,First Year,Others,Male,19,No,No,160,49,3,No,No,No,No,No,4,4,4,4,3,4,1,4,4,3,4,1,4,4,4,1,20,17,Severe,Severe,19.140625,Normal
+260,BTech,First Year,Others,Female,18,No,No,162,65,2,No,No,No,No,No,4,3,4,4,3,3,3,4,4,4,4,4,4,3,4,4,26,17,Severe,Severe,24.76756592,Normal
+262,BTech,First Year,Others,Male,19,Yes,No,145,55,1,No,No,No,No,No,3,4,4,3,3,4,1,2,4,4,4,3,4,1,1,3,17,15,Moderately Severe,Severe,26.15933413,Overweight
+267,BTech,First Year,Others,Male,18,No,Yes,170,75,2,No,No,No,No,No,1,3,4,1,4,1,1,1,1,1,3,3,1,1,1,1,4,8,None-minimal,Mild,25.95155709,Overweight
+269,BTech,First Year,Others,Male,21,Yes,No,170,55,2,No,No,No,No,No,2,1,2,3,3,2,1,2,2,3,3,2,3,2,3,2,13,7,Moderate,Mild,19.03114187,Normal
+270,BTech,First Year,Computer Science and Engineering,Male,18,No,No,168,45,2,No,No,No,No,No,1,2,2,1,1,2,2,1,1,1,1,1,1,1,1,1,0,4,None-minimal,Minimal,15.94387755,Underweight

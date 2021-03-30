@@ -1,0 +1,269 @@
+﻿Course,Year,Branch,Sex,Age,Freq_School_Switch,Rented,Height,Weight,Siblings,With_Gaurdians,Both_Parents_work,Smoking,Specially_abled,Constant_Bullied_past,PHQ,GAD,Depression,Anxiety,BMI,BMI_Category
+BTech,First Year,Others,Female,18,No,No,150,36,2,No,No,No,No,No,2,3,None-minimal,Minimal,16,Underweight
+BTech,First Year,CSE,Female,18,No,No,160,39,1,Yes,Yes,No,No,No,18,12,Moderately Severe,Moderate,15.234375,Underweight
+BTech,First Year,CSE,Male,18,No,No,172,39,2,No,No,No,No,No,22,17,Severe,Severe,25.35154137,Overweight
+BTech,First Year,CSE,Female,18,No,Yes,150,41,2,No,No,No,No,No,18,21,Moderately Severe,Severe,14.37777778,Underweight
+BTech,First Year,ECE,Female,18,No,No,159,42,2,No,Yes,No,No,No,22,21,Severe,Severe,16.61326688,Underweight
+BTech,First Year,CSE,Male,19,No,No,165,42,3,No,No,No,No,No,9,4,Mild,Minimal,15.42699725,Underweight
+BTech,First Year,ECE,Female,18,No,No,170,43,2,No,Yes,No,No,No,13,11,Moderate,Moderate,14.87889273,Underweight
+BTech,First Year,CSE,Female,18,No,Yes,160,45,2,No,Yes,No,No,Yes,11,16,Moderate,Severe,17.578125,Underweight
+BTech,First Year,CSE,Male,19,No,No,178,45,3,No,No,No,No,No,5,1,Mild,Minimal,14.20275218,Underweight
+BTech,First Year,CSE,Female,18,No,No,156,45,1,No,No,No,No,No,17,11,Moderately Severe,Moderate,18.49112426,Underweight
+BTech,First Year,CSE,Female,18,No,No,163,45,2,No,No,No,No,No,1,3,None-minimal,Minimal,16.93703188,Underweight
+BTech,First Year,Others,Female,19,No,No,162,45,3,No,No,No,No,No,15,12,Moderately Severe,Moderate,17.14677641,Underweight
+BTech,First Year,CSE,Male,18,No,No,168,45,2,No,No,No,No,No,0,4,None-minimal,Minimal,15.94387755,Underweight
+BTech,First Year,CSE,Male,18,No,No,175,46,2,No,No,No,No,No,10,6,Moderate,Mild,15.02040816,Underweight
+BTech,First Year,CSE,Male,19,Yes,Yes,170,47,2,Yes,No,No,No,No,11,5,Moderate,Mild,16.26297578,Underweight
+BTech,Third Year,CSE,Female,21,No,No,152,47,2,No,No,No,No,No,5,4,Mild,Minimal,20.34279778,Normal
+BTech,First Year,CSE,Male,18,No,No,176,48,1,No,Yes,No,No,No,5,2,Mild,Minimal,15.49586777,Underweight
+BTech,Second Year,CSE,Female,21,Yes,No,157,48,2,No,Yes,No,No,No,11,13,Moderate,Moderate,19.47340663,Normal
+BTech,First Year,Others,Male,18,No,No,165,48,1,Yes,No,No,No,No,2,0,None-minimal,Minimal,17.63085399,Underweight
+BTech,First Year,CSE,Male,19,Yes,Yes,170,48,2,No,No,No,No,No,20,16,Severe,Severe,16.60899654,Underweight
+BTech,First Year,CSE,Male,19,No,Yes,163,49,2,Yes,No,No,No,No,10,0,Moderate,Minimal,18.44254582,Underweight
+BTech,First Year,CSE,Male,18,No,No,176,49,1,No,No,No,No,Yes,4,4,None-minimal,Minimal,32.52595156,Underweight
+BTech,First Year,ECE,Female,18,No,No,162,49,2,No,No,No,No,No,9,2,Mild,Minimal,18.67093431,Normal
+BTech,First Year,ECE,Female,18,No,No,152,49,2,No,No,No,No,No,11,15,Moderate,Severe,21.20844875,Normal
+BTech,First Year,Others,Male,19,No,No,160,49,3,No,No,No,No,No,20,17,Severe,Severe,19.140625,Normal
+BTech,Second Year,Others,Female,20,Yes,No,155,50,3,No,Yes,No,No,Yes,18,10,Moderately Severe,Moderate,20.81165453,Normal
+BTech,First Year,CSE,Male,18,No,No,176,50,1,No,Yes,No,No,No,7,8,Mild,Mild,16.14152893,Underweight
+BTech,First Year,Others,Male,18,No,No,173,50,1,No,Yes,No,No,No,2,3,None-minimal,Minimal,16.70620468,Underweight
+BTech,First Year,Others,Female,18,Yes,Yes,165,50,1,No,No,No,No,Yes,13,15,Moderate,Severe,18.36547291,Underweight
+BTech,First Year,CSE,Male,19,No,No,165,50,2,No,No,No,No,No,11,11,Moderate,Moderate,18.36547291,Underweight
+BTech,First Year,ECE,Male,19,No,Yes,167,50,2,No,No,No,No,No,6,7,Mild,Mild,17.92821543,Underweight
+BTech,Second Year,CSE,Male,18,No,No,180,50,2,No,No,No,No,No,3,0,None-minimal,Minimal,15.43209877,Underweight
+BTech,First Year,CSE,Male,19,No,No,163,50,1,No,No,No,No,No,18,13,Moderately Severe,Moderate,18.81892431,Normal
+BTech,First Year,ECE,Male,18,Yes,No,162.56,50,2,No,No,No,No,No,6,6,Mild,Mild,18.92093628,Normal
+BTech,First Year,Others,Female,18,No,No,173,50,2,No,No,No,No,No,16,17,Moderately Severe,Severe,16.70620468,Underweight
+BTech,First Year,CSE,Female,18,Yes,No,160,50,1,No,No,No,No,No,19,21,Moderately Severe,Severe,19.53125,Normal
+BTech,First Year,Others,Female,18,No,No,160,50,2,No,No,No,No,No,18,19,Moderately Severe,Severe,19.53125,Normal
+BTech,First Year,CSE,Male,20,No,Yes,167.5,51,2,No,No,No,No,No,5,3,Mild,Minimal,18.17776788,Underweight
+BTech,First Year,CSE,Male,18,No,Yes,170,52,2,No,Yes,No,No,Yes,0,2,None-minimal,Minimal,17.99307958,Underweight
+BTech,First Year,CSE,Male,18,No,No,165,52,1,No,Yes,No,No,No,11,10,Moderate,Moderate,19.10009183,Normal
+BTech,First Year,ECE,Male,18,No,No,168,52,2,No,Yes,No,No,No,3,2,None-minimal,Minimal,18.42403628,Underweight
+BTech,First Year,CSE,Male,18,No,No,178,52,2,No,Yes,No,No,No,13,14,Moderate,Moderate,16.41206918,Underweight
+BTech,First Year,CSE,Male,19,No,Yes,168,52,3,No,Yes,No,No,No,26,21,Severe,Severe,18.42403628,Underweight
+BTech,First Year,CSE,Male,19,No,No,180,52,1,No,No,No,No,No,4,4,None-minimal,Minimal,16.04938272,Underweight
+BTech,First Year,CSE,Male,18,No,No,171,52,2,No,No,No,No,No,7,0,Mild,Minimal,17.78324955,Underweight
+BTech,First Year,ECE,Male,18,No,No,169,53,2,No,Yes,No,Yes,Yes,6,5,Mild,Mild,18.55677322,Normal
+BTech,First Year,ECE,Male,18,No,Yes,172,53,2,No,No,No,No,Yes,9,18,Mild,Severe,17.91508924,Underweight
+BTech,First Year,ECE,Male,18,No,No,165,53,2,No,No,No,No,No,7,9,Mild,Mild,19.46740129,Normal
+BTech,First Year,CSE,Male,18,No,No,175,53,2,No,No,No,No,No,1,0,None-minimal,Minimal,17.30612245,Underweight
+BTech,Fourth Year,CSE,Female,21,No,No,161,53,2,No,No,No,No,No,13,9,Moderate,Mild,20.44674202,Normal
+BTech,First Year,CSE,Male,18,No,No,170,53,4,No,No,No,No,No,15,13,Moderately Severe,Moderate,18.33910035,Underweight
+BTech,First Year,CSE,Female,19,No,No,163,53,2,No,No,No,No,No,2,6,None-minimal,Mild,19.94805977,Normal
+BTech,First Year,Others,Male,18,No,No,168,53,2,No,No,No,No,No,4,4,None-minimal,Minimal,18.77834467,Normal
+BTech,First Year,Others,Male,18,No,No,169,53,2,No,No,No,No,No,16,14,Moderately Severe,Moderate,18.55677322,Normal
+BTech,First Year,ECE,Male,18,No,No,176,54,2,No,No,No,No,Yes,13,14,Moderate,Moderate,17.43285124,Underweight
+BTech,First Year,CSE,Female,20,No,No,169,54,3,No,No,No,No,No,23,14,Severe,Moderate,18.90690102,Normal
+BTech,Fourth Year,ECE,Male,23,No,No,178,55,1,No,Yes,No,No,No,0,1,None-minimal,Minimal,17.35891933,Underweight
+BTech,First Year,ECE,Male,18,No,No,173,55,2,No,Yes,No,No,No,2,2,None-minimal,Minimal,18.37682515,Underweight
+BTech,First Year,Others,Male,18,No,Yes,170,55,1,No,Yes,No,No,No,9,5,Mild,Mild,19.03114187,Normal
+BTech,First Year,CSE,Male,18,Yes,No,175,55,2,No,Yes,No,No,No,13,18,Moderate,Severe,17.95918367,Underweight
+BTech,First Year,CSE,Male,20,No,Yes,178,55,1,Yes,No,No,No,No,3,8,None-minimal,Mild,17.35891933,Underweight
+BTech,First Year,CSE,Male,18,No,No,173,55,2,Yes,No,No,No,No,6,13,Mild,Moderate,18.37682515,Underweight
+BTech,First Year,CSE,Female,18,No,Yes,169,55,3,Yes,No,No,No,No,14,14,Moderate,Moderate,19.25702882,Normal
+BTech,First Year,CSE,Female,18,No,No,164.6,55,2,Yes,No,No,No,No,16,17,Moderately Severe,Severe,20.30032672,Normal
+BTech,First Year,ECE,Male,19,Yes,No,157,55,2,No,No,No,No,Yes,7,8,Mild,Mild,22.31327843,Normal
+BTech,First Year,CSE,Male,19,No,Yes,177,55,3,No,No,No,Yes,No,9,10,Mild,Moderate,17.55561939,Underweight
+BTech,First Year,CSE,Male,18,No,Yes,162,55,2,No,No,No,No,No,8,11,Mild,Moderate,20.95717116,Normal
+BTech,First Year,ECE,Male,18,Yes,No,185,55,2,No,No,Yes,Yes,No,2,1,None-minimal,Minimal,16.07012418,Underweight
+BTech,Second Year,ECE,Male,19,No,Yes,171,55,3,No,No,No,No,No,10,8,Moderate,Mild,18.80920625,Normal
+BTech,First Year,ECE,Male,18,No,No,182,55,1,No,No,No,No,No,4,9,None-minimal,Mild,16.60427485,Underweight
+BTech,First Year,ECE,Male,19,No,No,173,55,2,No,No,No,No,No,24,17,Severe,Severe,18.37682515,Underweight
+BTech,First Year,Others,Male,18,No,No,177,55,1,No,No,No,No,No,1,3,None-minimal,Minimal,17.55561939,Underweight
+BTech,First Year,Others,Male,19,Yes,No,145,55,1,No,No,No,No,No,17,15,Moderately Severe,Severe,26.15933413,Overweight
+BTech,First Year,Others,Male,21,Yes,No,170,55,2,No,No,No,No,No,13,7,Moderate,Mild,19.03114187,Normal
+BTech,First Year,ECE,Male,18,Yes,Yes,167,56,2,No,Yes,No,No,No,10,6,Moderate,Mild,20.07960128,Normal
+BTech,First Year,ECE,Male,18,No,Yes,171,56,2,Yes,No,No,Yes,No,2,7,None-minimal,Mild,19.15119182,Normal
+BTech,Second Year,ECE,Female,20,Yes,No,167,56,2,No,No,No,No,No,11,15,Moderate,Severe,20.07960128,Normal
+BTech,First Year,Others,Female,20,No,No,157,56,2,No,No,No,No,No,9,11,Mild,Moderate,22.7189744,Normal
+BTech,First Year,ECE,Male,18,No,No,167.64,56,2,No,No,No,No,No,6,5,Mild,Mild,19.92657796,Normal
+BTech,First Year,CSE,Male,18,No,No,166,56,2,No,No,No,No,No,4,2,None-minimal,Minimal,20.32225287,Normal
+BTech,First Year,Others,Female,19,No,No,160,57,2,No,Yes,No,No,No,16,15,Moderately Severe,Severe,22.265625,Normal
+BTech,First Year,CSE,Male,18,No,No,164,57,2,No,No,No,No,Yes,6,3,Mild,Minimal,21.19274242,Normal
+BTech,First Year,CSE,Male,19,No,Yes,177,57,2,No,No,No,No,Yes,11,4,Moderate,Minimal,18.19400555,Underweight
+BTech,First Year,Others,Female,18,No,No,157,57,2,No,No,No,No,Yes,10,4,Moderate,Minimal,23.12467037,Normal
+BTech,First Year,ECE,Male,20,No,No,149.8,57.2,4,No,Yes,No,Yes,Yes,7,6,Mild,Mild,25.49015064,Obese
+BTech,First Year,CSE,Female,19,No,No,154,58,2,No,Yes,No,No,No,10,9,Moderate,Mild,24.45606342,Normal
+BTech,First Year,CSE,Male,17,No,No,167,58,3,No,Yes,No,No,No,11,5,Moderate,Mild,20.79672989,Normal
+BTech,First Year,ECE,Male,18,No,No,168,58,1,No,No,No,No,Yes,24,21,Severe,Severe,20.54988662,Normal
+BTech,First Year,CSE,Male,18,No,No,172,58,2,No,No,No,No,No,0,1,None-minimal,Minimal,19.605192,Normal
+BTech,Second Year,CSE,Male,18,No,Yes,170,58,2,No,No,No,No,No,12,7,Moderate,Mild,20.06920415,Normal
+BTech,First Year,CSE,Male,19,No,No,166,58,3,No,No,No,No,No,0,2,None-minimal,Minimal,21.04804761,Normal
+BTech,Second Year,ECE,Female,20,No,No,157,58,2,No,No,No,No,No,13,18,Moderate,Severe,23.53036634,Normal
+BTech,First Year,CSE,Male,19,No,No,179,59,4,Yes,Yes,No,No,No,24,16,Severe,Severe,18.41390718,Underweight
+BTech,First Year,CSE,Male,19,No,No,170,59,2,No,Yes,No,No,No,11,8,Moderate,Mild,20.41522491,Normal
+BTech,First Year,CSE,Male,17,No,No,181,59,2,No,No,No,No,No,15,7,Moderately Severe,Mild,18.00921828,Underweight
+BTech,First Year,CSE,Male,18,No,No,178,59,2,No,No,No,No,No,1,6,None-minimal,Mild,18.62138619,Normal
+BTech,First Year,CSE,Male,18,Yes,Yes,161,59,4,No,No,No,No,No,12,10,Moderate,Moderate,22.76146754,Normal
+BTech,First Year,CSE,Female,18,Yes,No,157.48,59,2,No,No,No,No,No,8,6,Mild,Mild,23.79037016,Normal
+BTech,Second Year,ECE,Male,18,No,No,168,59,2,No,No,No,Yes,No,13,15,Moderate,Severe,17.53864447,Obese
+BTech,First Year,CSE,Female,18,No,No,148,60,2,Yes,Yes,No,No,No,22,21,Severe,Severe,27.39225712,Overweight
+BTech,First Year,CSE,Male,18,No,No,165,60,2,No,Yes,No,No,No,8,5,Mild,Mild,22.03856749,Normal
+BTech,First Year,CSE,Male,19,No,No,173,60,2,No,Yes,No,No,No,3,1,None-minimal,Minimal,20.04744562,Normal
+BTech,First Year,CSE,Male,20,No,No,160,60,2,No,Yes,No,No,No,10,12,Moderate,Moderate,23.4375,Normal
+BTech,First Year,CSE,Male,19,No,No,172,60,2,No,Yes,No,No,No,5,7,Mild,Mild,20.2812331,Normal
+BTech,Third Year,CSE,Male,20,No,No,173,60,1,No,Yes,No,No,No,6,8,Mild,Mild,20.04744562,Normal
+BTech,First Year,CSE,Male,18,No,No,160,60,3,No,Yes,No,No,No,15,20,Moderately Severe,Severe,23.4375,Normal
+BTech,First Year,CSE,Male,18,Yes,Yes,162.5,60,2,No,Yes,No,No,No,3,0,None-minimal,Minimal,22.72189349,Normal
+BTech,First Year,Others,Male,18,No,No,175,60,2,No,Yes,No,No,No,9,9,Mild,Mild,19.59183673,Normal
+BTech,First Year,CSE,Male,19,No,Yes,172,60,3,Yes,No,No,No,No,9,10,Mild,Moderate,20.2812331,Normal
+BTech,First Year,CSE,Female,18,No,No,167,60,2,Yes,No,No,No,No,11,9,Moderate,Mild,21.51385851,Normal
+BTech,First Year,Others,Female,18,No,No,157,60,2,Yes,No,No,No,No,26,21,Severe,Severe,24.34175829,Normal
+BTech,First Year,Others,Male,19,No,No,180,60,2,Yes,No,No,No,No,27,21,Severe,Severe,18.51851852,Normal
+BTech,First Year,CSE,Male,18,No,No,163,60,2,Yes,No,No,No,No,15,8,Moderately Severe,Mild,22.58270917,Normal
+BTech,Third Year,ECE,Female,20,No,No,169,60,3,No,No,No,No,Yes,13,9,Moderate,Mild,21.0076678,Normal
+BTech,First Year,CSE,Male,19,Yes,Yes,166,60,2,No,No,No,No,Yes,4,8,None-minimal,Mild,21.77384236,Normal
+BTech,First Year,ECE,Male,19,No,No,150,60,2,No,No,No,No,No,10,12,Moderate,Moderate,26.66666667,Overweight
+BTech,First Year,CSE,Male,19,No,No,170,60,3,No,No,No,No,No,4,2,None-minimal,Minimal,20.76124567,Normal
+BTech,First Year,CSE,Male,18,No,No,188,60,2,No,No,No,No,No,1,0,None-minimal,Minimal,16.97600724,Underweight
+BTech,First Year,CSE,Male,19,Yes,No,162,60,2,No,No,No,Yes,No,0,4,None-minimal,Minimal,15.60874089,Obese
+BTech,Second Year,CSE,Male,20,No,No,156,60,2,No,No,No,No,No,3,10,None-minimal,Moderate,24.65483235,Normal
+BTech,Third Year,CSE,Male,21,No,No,175,60,3,No,No,No,No,No,6,0,Mild,Minimal,19.59183673,Normal
+BTech,First Year,CSE,Male,18,No,No,170,60,2,No,No,No,No,No,0,5,None-minimal,Mild,20.76124567,Normal
+BTech,First Year,CSE,Male,18,No,No,160,60,2,No,No,No,No,No,11,11,Moderate,Moderate,23.4375,Normal
+BTech,Second Year,ECE,Male,20,No,Yes,179,60,2,No,No,No,No,No,16,17,Moderately Severe,Severe,18.7260073,Normal
+BTech,First Year,ECE,Female,18,No,No,160,60,2,No,No,No,No,No,12,8,Moderate,Mild,23.4375,Normal
+BTech,Third Year,ECE,Female,20,No,No,164,60,2,No,No,No,No,No,20,16,Severe,Severe,22.30814991,Normal
+BTech,First Year,CSE,Male,18,No,No,167,61,2,Yes,Yes,No,No,No,13,12,Moderate,Moderate,21.87242282,Normal
+BTech,First Year,CSE,Male,18,No,No,165,61,4,No,Yes,No,No,No,8,6,Mild,Mild,22.40587695,Normal
+BTech,First Year,ECE,Male,20,Yes,No,179,61,4,No,No,No,No,No,0,1,None-minimal,Minimal,19.03810742,Normal
+BTech,First Year,ECE,Male,18,No,Yes,170.2,61,2,No,No,No,No,No,8,1,Mild,Minimal,21.05768979,Normal
+BTech,First Year,CSE,Male,18,No,Yes,148,61,2,No,No,No,No,No,11,7,Moderate,Mild,27.84879474,Overweight
+BTech,First Year,CSE,Male,18,No,No,184,62,2,No,No,No,No,No,14,13,Moderate,Moderate,18.31285444,Underweight
+BTech,First Year,CSE,Male,18,No,No,171,62,2,No,No,No,No,No,3,4,None-minimal,Minimal,21.20310523,Normal
+BTech,First Year,CSE,Male,20,No,No,157,62,2,No,No,No,No,No,13,21,Moderate,Severe,25.15315023,Overweight
+BTech,First Year,CSE,Male,18,No,No,170,62,1,No,No,No,No,No,15,14,Moderately Severe,Moderate,21.4532872,Normal
+BTech,First Year,CSE,Male,18,No,No,173,62,2,No,No,No,No,No,7,14,Mild,Moderate,20.71569381,Normal
+BTech,First Year,Others,Male,17,No,No,180,63,1,No,Yes,No,No,No,18,17,Moderately Severe,Severe,19.44444444,Normal
+BTech,First Year,CSE,Male,18,No,No,176,63,2,No,No,No,No,Yes,5,4,Mild,Minimal,20.33832645,Normal
+BTech,Third Year,CSE,Male,21,No,No,172,63,2,No,No,No,No,No,1,5,None-minimal,Mild,21.29529475,Normal
+BTech,First Year,CSE,Male,19,No,No,165,63,2,No,No,No,No,No,8,10,Mild,Moderate,23.14049587,Normal
+BTech,First Year,CSE,Male,18,No,No,170,63,2,No,No,No,No,No,3,5,None-minimal,Mild,21.79930796,Normal
+BTech,First Year,CSE,Male,18,No,No,181,63.3,2,No,No,No,No,No,6,5,Mild,Mild,19.32175453,Normal
+BTech,First Year,CSE,Male,17,No,Yes,169,64,2,No,Yes,No,No,No,5,4,Mild,Minimal,22.40817899,Normal
+BTech,First Year,CSE,Male,19,No,Yes,179,64,2,No,Yes,No,No,No,6,11,Mild,Moderate,19.97440779,Normal
+BTech,Fourth Year,CSE,Female,22,Yes,Yes,166,64,2,No,No,No,No,Yes,6,8,Mild,Mild,23.22543185,Normal
+BTech,First Year,ECE,Male,18,No,No,177.8,64,3,No,No,No,No,No,8,8,Mild,Mild,20.24493845,Normal
+BTech,First Year,CSE,Female,19,No,No,163,64,3,No,No,No,No,No,0,0,None-minimal,Minimal,24.08822312,Normal
+BTech,First Year,CSE,Male,20,No,No,172.7,65,1,No,Yes,No,No,No,4,11,None-minimal,Moderate,21.79358524,Normal
+BTech,First Year,CSE,Male,19,No,No,160,65,2,No,Yes,No,No,No,6,9,Mild,Mild,25.390625,Overweight
+BTech,First Year,CSE,Male,19,No,No,168,65,2,No,Yes,No,No,No,3,2,None-minimal,Minimal,23.03004535,Normal
+BTech,Second Year,CSE,Female,18,No,Yes,165,65,2,No,Yes,No,No,No,13,6,Moderate,Mild,23.87511478,Normal
+BTech,First Year,ECE,Female,19,No,No,170,65,2,No,Yes,No,No,No,18,18,Moderately Severe,Severe,22.49134948,Normal
+BTech,First Year,CSE,Female,18,No,No,157,65,1,Yes,No,No,No,No,11,1,Moderate,Minimal,26.37023814,Overweight
+BTech,First Year,ECE,Male,19,No,Yes,185,65,1,Yes,No,No,No,No,12,12,Moderate,Moderate,18.99196494,Normal
+BTech,First Year,CSE,Male,18,Yes,No,173,65,2,No,No,No,No,Yes,10,1,Moderate,Minimal,21.71806609,Normal
+BTech,First Year,CSE,Male,18,No,Yes,156,65,1,No,No,No,No,No,3,4,None-minimal,Minimal,26.70940171,Overweight
+BTech,First Year,CSE,Male,18,No,No,178,65,2,No,No,No,No,No,4,5,None-minimal,Mild,20.51508648,Normal
+BTech,First Year,Others,Male,19,No,No,173,65,2,No,No,No,No,No,18,20,Moderately Severe,Severe,21.71806609,Normal
+BTech,First Year,CSE,Male,18,No,No,163,65,1,No,No,No,No,No,3,2,None-minimal,Minimal,24.4646016,Normal
+BTech,First Year,Others,Female,18,No,No,162,65,2,No,No,No,No,No,26,17,Severe,Severe,24.76756592,Normal
+BTech,First Year,Others,Female,18,No,No,173,66,2,No,Yes,Yes,No,Yes,26,21,Severe,Severe,22.05219018,Normal
+BTech,First Year,ECE,Male,18,No,No,178,66,2,No,Yes,No,No,No,11,12,Moderate,Moderate,20.83070319,Normal
+BTech,First Year,ECE,Male,20,No,No,172,66,2,No,No,No,No,No,9,13,Mild,Moderate,22.30935641,Normal
+BTech,First Year,CSE,Male,19,No,No,172.72,66,4,No,No,No,No,No,0,0,None-minimal,Minimal,22.12374667,Normal
+BTech,First Year,CSE,Male,18,No,No,170,67,2,No,Yes,No,No,No,11,5,Moderate,Mild,23.183391,Normal
+BTech,First Year,CSE,Male,18,Yes,No,174,67,4,No,Yes,No,No,No,6,0,Mild,Minimal,22.12973973,Normal
+BTech,First Year,CSE,Male,19,Yes,Yes,176,67,2,Yes,No,No,No,Yes,18,15,Moderately Severe,Severe,21.62964876,Normal
+BTech,First Year,CSE,Male,18,No,No,180,67,1,No,No,No,No,No,15,12,Moderately Severe,Moderate,20.67901235,Normal
+BTech,First Year,CSE,Male,18,No,No,155,67,1,No,No,No,No,No,25,21,Severe,Severe,27.88761707,Overweight
+BTech,First Year,ECE,Male,18,No,No,178,68,1,No,Yes,No,No,No,1,1,None-minimal,Minimal,21.46193662,Normal
+BTech,Second Year,CSE,Female,19,No,No,153,68,2,Yes,No,No,No,Yes,20,15,Severe,Severe,29.0486565,Overweight
+BTech,First Year,ECE,Male,18,No,No,163,68,2,Yes,No,No,No,No,8,7,Mild,Mild,25.59373706,Overweight
+BTech,First Year,ECE,Male,19,No,No,175,68,2,No,No,No,No,No,7,7,Mild,Mild,22.20408163,Normal
+BTech,First Year,CSE,Male,18,No,No,176,68,1,No,No,No,No,No,9,7,Mild,Mild,21.95247934,Normal
+BTech,Third Year,ECE,Male,22,No,No,184,68,3,No,No,No,No,No,6,5,Mild,Mild,20.08506616,Normal
+BTech,Second Year,CSE,Male,18,No,No,176,68,3,No,No,Yes,No,No,4,8,None-minimal,Mild,21.95247934,Normal
+BTech,First Year,ECE,Male,19,No,No,175,68,1,No,No,No,No,No,15,17,Moderately Severe,Severe,22.20408163,Normal
+BTech,Second Year,CSE,Male,20,No,No,175.26,69,2,Yes,No,No,No,No,0,2,None-minimal,Minimal,22.46381304,Normal
+BTech,First Year,CSE,Male,19,No,No,159,69,2,No,No,No,No,No,15,7,Moderately Severe,Mild,27.29322416,Overweight
+BTech,First Year,Others,Female,19,No,No,155,69,3,No,No,No,No,No,25,21,Severe,Severe,28.72008325,Overweight
+BTech,First Year,CSE,Male,19,No,No,173,70,2,No,Yes,No,No,No,3,3,None-minimal,Minimal,23.38868656,Normal
+BTech,First Year,CSE,Male,20,No,Yes,177,70,3,No,Yes,No,No,No,17,15,Moderately Severe,Severe,22.34351559,Normal
+BTech,First Year,ECE,Male,18,No,No,168,70,2,No,Yes,No,No,No,4,4,None-minimal,Minimal,24.8015873,Normal
+BTech,First Year,CSE,Male,17,No,No,173,70,2,Yes,No,No,No,No,5,6,Mild,Mild,23.38868656,Normal
+BTech,Fourth Year,CSE,Male,21,No,No,180,70,2,No,No,No,No,Yes,1,3,None-minimal,Minimal,21.60493827,Normal
+BTech,First Year,CSE,Male,19,No,Yes,184,70,3,No,No,No,No,No,15,17,Moderately Severe,Severe,20.6758034,Normal
+BTech,First Year,CSE,Male,19,No,Yes,160,70,2,No,No,No,No,No,15,13,Moderately Severe,Moderate,27.34375,Overweight
+BTech,First Year,CSE,Male,17,No,No,185,70,2,No,No,No,No,No,9,11,Mild,Moderate,20.45288532,Normal
+BTech,First Year,CSE,Male,17,No,No,177,70,2,No,No,No,No,No,15,12,Moderately Severe,Moderate,22.34351559,Normal
+BTech,Fourth Year,CSE,Male,21,No,No,173,70,4,No,No,No,No,No,8,4,Mild,Minimal,23.38868656,Normal
+BTech,First Year,CSE,Male,18,No,Yes,160.2,70,1,No,No,No,No,No,15,12,Moderately Severe,Moderate,27.27551859,Overweight
+BTech,First Year,CSE,Male,19,No,No,173,70,2,No,No,No,No,No,15,8,Moderately Severe,Mild,23.38868656,Normal
+BTech,Second Year,Others,Male,19,No,No,189,70,1,No,No,No,No,No,13,17,Moderate,Severe,19.59631589,Normal
+BTech,First Year,ECE,Male,19,No,Yes,172,71,2,No,No,No,No,No,22,20,Severe,Severe,23.99945917,Normal
+BTech,First Year,CSE,Male,18,No,No,171,72,2,No,Yes,No,No,No,8,12,Mild,Moderate,24.62296091,Normal
+BTech,First Year,CSE,Male,18,No,No,178,72,2,No,No,No,No,No,0,1,None-minimal,Minimal,22.72440348,Normal
+BTech,First Year,CSE,Male,19,No,No,158,72,3,No,No,No,Yes,No,2,1,None-minimal,Minimal,28.84153181,Overweight
+BTech,Second Year,CSE,Male,20,Yes,Yes,165,72,2,No,No,No,No,No,15,11,Moderately Severe,Moderate,26.44628099,Overweight
+BTech,First Year,ECE,Male,18,No,No,172,72,1,No,No,No,No,No,3,7,None-minimal,Mild,24.33747972,Normal
+BTech,Second Year,CSE,Male,20,No,No,173,72,6,No,No,No,No,No,7,0,Mild,Minimal,24.05693475,Normal
+BTech,First Year,ECE,Male,19,Yes,No,170,72,3,No,No,No,No,No,15,20,Moderately Severe,Severe,24.91349481,Normal
+BTech,First Year,CSE,Male,18,No,No,181,73,1,Yes,Yes,No,No,No,4,4,None-minimal,Minimal,22.28259211,Normal
+BTech,First Year,ECE,Male,18,Yes,No,176,73,2,Yes,Yes,Yes,No,No,10,16,Moderate,Severe,23.56663223,Normal
+BTech,First Year,CSE,Male,19,No,No,172,73.5,2,No,No,No,No,No,20,20,Severe,Severe,24.84451055,Normal
+BTech,First Year,CSE,Male,19,No,No,170,74,2,No,No,No,Yes,No,18,15,Moderately Severe,Severe,25.60553633,Obese
+BTech,Fourth Year,CSE,Male,21,No,No,177,74,3,No,No,No,No,No,0,0,None-minimal,Minimal,23.62028791,Normal
+BTech,Second Year,Others,Male,19,No,No,167,74,2,No,No,No,No,No,11,12,Moderate,Moderate,26.53375883,Overweight
+BTech,First Year,Others,Male,19,No,No,148,74,2,No,No,Yes,No,No,3,0,None-minimal,Minimal,23.09540901,Normal
+BTech,First Year,Others,Male,19,No,No,164,74,1,No,No,No,No,No,24,21,Severe,Severe,27.51338489,Overweight
+BTech,Third Year,ECE,Male,19,No,No,177.8,74.6,2,No,Yes,No,No,No,8,5,Mild,Mild,23.59800638,Normal
+BTech,Fourth Year,CSE,Male,21,No,No,181,75,1,No,Yes,No,No,Yes,3,1,None-minimal,Minimal,22.89307408,Normal
+BTech,First Year,CSE,Male,19,No,No,180,75,2,No,Yes,No,No,No,10,19,Moderate,Severe,23.14814815,Normal
+BTech,First Year,ECE,Male,18,No,No,171,75,2,No,Yes,No,No,No,18,13,Moderately Severe,Moderate,25.64891762,Overweight
+BTech,First Year,ECE,Male,19,No,No,172,75,1,No,No,Yes,No,No,9,7,Mild,Mild,25.35154137,Overweight
+BTech,First Year,CSE,Male,17,No,Yes,165,75,1,No,No,No,No,No,3,8,None-minimal,Mild,27.54820937,Overweight
+BTech,First Year,ECE,Male,17,No,No,175,75,3,No,No,No,No,No,12,8,Moderate,Mild,24.48979592,Normal
+BTech,First Year,CSE,Male,18,No,No,177,75,2,No,No,No,No,No,2,1,None-minimal,Minimal,23.93948099,Normal
+BTech,First Year,ECE,Male,20,No,No,180,75,2,No,No,No,No,No,3,3,None-minimal,Minimal,23.14814815,Normal
+BTech,First Year,CSE,Male,18,No,No,178,75,2,No,No,No,No,No,4,3,None-minimal,Minimal,23.67125363,Normal
+BTech,First Year,Others,Male,19,No,Yes,188,75,2,No,No,No,No,No,17,19,Moderately Severe,Severe,21.22000905,Normal
+BTech,First Year,Others,Male,18,No,Yes,170,75,2,No,No,No,No,No,4,8,None-minimal,Mild,25.95155709,Overweight
+BTech,First Year,CSE,Male,19,No,No,169.4,76,1,Yes,Yes,No,No,No,9,7,Mild,Mild,26.48419521,Overweight
+BTech,First Year,ECE,Male,18,Yes,No,170,77,2,No,Yes,No,No,No,18,11,Moderately Severe,Moderate,26.64359862,Overweight
+BTech,Second Year,ECE,Male,20,Yes,No,179,77,2,No,No,No,No,Yes,9,8,Mild,Mild,24.03170937,Normal
+BTech,First Year,CSE,Male,18,No,No,178,78,2,No,Yes,No,No,Yes,27,19,Severe,Severe,24.61810377,Normal
+BTech,First Year,CSE,Male,20,No,No,183,78,2,No,No,No,No,No,9,10,Mild,Moderate,23.29122996,Normal
+BTech,First Year,CSE,Male,19,No,No,173,78,1,No,No,No,No,No,12,10,Moderate,Moderate,26.06167931,Overweight
+BTech,First Year,ECE,Male,20,Yes,No,169,78,2,No,No,No,Yes,No,7,3,Mild,Minimal,27.30996814,Overweight
+BTech,First Year,CSE,Male,18,Yes,Yes,166,80,2,No,Yes,No,No,Yes,23,12,Severe,Moderate,29.03178981,Overweight
+BTech,First Year,Others,Male,19,No,No,175,80,1,No,Yes,No,No,Yes,20,17,Severe,Severe,26.12244898,Overweight
+BTech,Second Year,ECE,Female,20,No,No,157,80,1,No,Yes,No,No,No,14,11,Moderate,Moderate,32.45567772,Obese
+BTech,First Year,CSE,Male,20,No,No,180,80,2,No,Yes,No,No,No,9,2,Mild,Minimal,24.69135802,Normal
+BTech,First Year,ECE,Male,19,No,No,171,80,2,No,No,No,No,Yes,12,10,Moderate,Moderate,27.35884546,Overweight
+BTech,First Year,ECE,Male,19,No,Yes,179,80,3,No,No,No,No,No,10,9,Moderate,Mild,24.96800974,Normal
+BTech,First Year,CSE,Male,18,No,No,175,80,2,No,No,No,No,No,3,1,None-minimal,Minimal,26.12244898,Overweight
+BTech,First Year,CSE,Male,18,No,No,185.4,80,2,No,No,No,No,No,6,6,Mild,Mild,23.27397307,Normal
+BTech,First Year,CSE,Male,19,No,No,175,82,1,Yes,No,No,No,No,5,4,Mild,Minimal,26.7755102,Overweight
+BTech,First Year,Others,Male,18,No,Yes,176,83,2,No,Yes,No,No,No,11,9,Moderate,Mild,26.79493802,Overweight
+BTech,First Year,CSE,Male,20,No,No,183,83,2,No,No,No,No,No,7,12,Mild,Moderate,24.78425752,Normal
+BTech,First Year,CSE,Female,18,No,No,175,83,1,No,No,No,No,No,2,7,None-minimal,Mild,27.10204082,Overweight
+BTech,First Year,CSE,Male,19,No,No,182,84,1,Yes,Yes,No,No,No,6,3,Mild,Minimal,25.35925613,Overweight
+BTech,First Year,ECE,Male,18,No,No,175,84,2,No,Yes,No,No,No,12,12,Moderate,Moderate,27.42857143,Overweight
+BTech,Fourth Year,ECE,Male,23,No,No,182,84,3,No,No,No,Yes,No,7,5,Mild,Mild,25.35925613,Overweight
+BTech,First Year,CSE,Male,18,No,No,170,85,2,Yes,Yes,No,No,No,10,16,Moderate,Severe,29.41176471,Overweight
+BTech,First Year,CSE,Male,20,No,Yes,175,85,2,Yes,No,No,No,No,21,21,Severe,Severe,27.75510204,Overweight
+BTech,First Year,CSE,Male,17,No,No,178,85,2,No,No,No,No,No,5,12,Mild,Moderate,26.82742078,Overweight
+BTech,First Year,CSE,Male,18,No,No,180,85,2,No,No,No,No,No,19,17,Moderately Severe,Severe,26.2345679,Overweight
+BTech,First Year,CSE,Male,20,No,Yes,179,86,2,Yes,No,No,No,No,16,13,Moderately Severe,Moderate,26.84061047,Overweight
+BTech,Second Year,CSE,Male,19,No,No,174,86,1,No,No,No,No,No,10,21,Moderate,Severe,28.40533756,Overweight
+BTech,First Year,Others,Male,18,No,No,180,87,1,Yes,No,No,No,No,10,10,Moderate,Moderate,26.85185185,Overweight
+BTech,First Year,CSE,Male,19,Yes,No,178,87,2,No,No,No,No,No,6,3,Mild,Minimal,27.45865421,Overweight
+BTech,First Year,CSE,Male,18,Yes,No,185.4,87,2,No,No,No,No,No,4,4,None-minimal,Minimal,25.31044571,Overweight
+BTech,First Year,CSE,Male,18,Yes,No,181,88,1,No,Yes,No,No,No,13,8,Moderate,Mild,26.86120692,Overweight
+BTech,First Year,CSE,Male,19,No,No,180.34,89.5,2,No,No,No,No,No,16,9,Moderately Severe,Mild,27.51939644,Overweight
+BTech,First Year,CSE,Male,18,No,No,179,90,2,No,Yes,No,No,No,15,13,Moderately Severe,Moderate,28.08901095,Overweight
+BTech,First Year,CSE,Male,18,No,Yes,180,90,1,No,Yes,No,No,No,11,16,Moderate,Severe,27.77777778,Overweight
+BTech,First Year,CSE,Female,18,No,No,180,90,1,No,Yes,No,No,No,8,11,Mild,Moderate,27.77777778,Overweight
+BTech,First Year,ECE,Male,18,No,No,176,90,2,No,No,No,No,No,21,17,Severe,Severe,29.05475207,Overweight
+BTech,First Year,ECE,Male,17,Yes,No,180,90,2,No,No,No,No,No,14,8,Moderate,Mild,27.77777778,Overweight
+BTech,First Year,CSE,Male,18,No,No,181,91,2,No,No,No,No,No,2,5,None-minimal,Mild,27.77692989,Overweight
+BTech,First Year,CSE,Male,18,No,No,178,93,1,No,No,Yes,Yes,No,10,7,Moderate,Mild,29.3523545,Overweight
+BTech,Second Year,CSE,Male,20,No,Yes,170,94,2,Yes,No,No,Yes,No,17,12,Moderately Severe,Moderate,32.52595156,Obese
+BTech,First Year,CSE,Male,18,No,No,179,95,2,No,Yes,No,No,Yes,27,21,Severe,Severe,29.64951156,Overweight
+BTech,First Year,CSE,Male,19,No,No,183,98,2,No,No,No,No,Yes,10,20,Moderate,Severe,29.2633402,Overweight
+BTech,First Year,CSE,Male,18,No,Yes,181,100,2,No,No,No,No,No,15,19,Moderately Severe,Severe,30.52409878,Obese
+BTech,First Year,CSE,Male,18,No,Yes,171,100,1,No,No,No,No,No,22,18,Severe,Severe,34.19855682,Obese
+BTech,First Year,CSE,Male,19,No,No,183,100,2,No,No,No,No,No,2,0,None-minimal,Minimal,29.86055123,Overweight
+BTech,First Year,CSE,Male,18,No,No,184,107,2,No,No,No,No,No,8,9,Mild,Mild,31.60444234,Obese
